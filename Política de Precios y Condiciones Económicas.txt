@@ -1,0 +1,130 @@
+﻿POLÍTICA DE PRECIOS
+Y CONDICIONES ECONÓMICAS
+DE QPLANETA
+Versión: 1.0
+Fecha: 5 de noviembre de 2026
+Entrada en vigencia: 13 de noviembre de 2026
+Documento complementario de los Términos y Condiciones
+Huánuco – Perú
+2026
+________________
+
+
+ÍNDICE GENERAL
+1. Objeto, alcance y carácter complementario
+2. Identificación de las partes y modalidades de servicio
+3. Moneda, precio final y límites mínimos
+4. Comisiones comerciales y acuerdos especiales
+5. Responsabilidad por costos extraordinarios de transacción
+6. Cupos, tipos de entradas y estabilidad de precios
+7. Periodo de venta, reservas y pagos confirmados tardíamente
+8. Pagos, Saldo a favor y operaciones incompletas
+9. Habilitación económica y cuenta de liquidación del Organizador
+10. Liquidaciones y rendición económica
+11. Retenciones justificadas y saldos discutidos
+12. Liquidaciones anticipadas mediante contrato especial
+13. Cancelaciones, inasistencias y errores de publicación
+14. Contracargos, reversiones y responsabilidad por operaciones
+15. Comprobantes de pago, datos tributarios e impuestos
+16. Transparencia previa y aceptación del Organizador
+17. Cambios de comisiones y protección de publicaciones existentes
+18. Eventos sujetos a legislación especial
+19. Atención de incidencias y protección al consumidor
+20. Vigencia, prevalencia normativa y actualización
+Referencias normativas oficiales
+________________
+
+
+1. Objeto, alcance y carácter complementario
+Esta Política regula los precios, las comisiones de Qplaneta, los medios y condiciones de cobro, la asignación de costos de transacción, los cupos y liquidaciones a Organizadores y las obligaciones económicas asociadas a las Actividades y Eventos comercializados mediante la Plataforma.
+Se aplica a Participantes, compradores y Organizadores respecto de las funcionalidades efectivamente habilitadas. Integra el marco contractual junto con los Términos y Condiciones de Uso, la Política de Cancelaciones y Reembolsos, las Condiciones Particulares aceptadas y los acuerdos especiales escritos. Ninguna disposición restringe los derechos irrenunciables del consumidor ni responsabilidades impuestas por ley.
+2. Identificación de las partes y modalidades de servicio
+Qplaneta es una plataforma digital operada por Quantum Labs S.A.C. que conecta a Organizadores independientes con personas interesadas en experiencias presenciales. Salvo que Quantum Labs S.A.C. sea identificada expresamente como Organizador directo de una Experiencia, la ejecución material y las obligaciones propias de la prestación corresponden al Organizador tercero.
+Las Actividades y Eventos pueden publicarse gratuitamente cuando no exista cobro de entradas. En experiencias de pago, la publicación tampoco genera una tarifa fija por alta; Qplaneta percibe comisión únicamente sobre operaciones de venta realizadas mediante sus herramientas de pago y que no hayan sido reembolsadas.
+Las Actividades de pago se comercializan mediante Qplaneta. En Eventos, el Organizador elegirá antes de publicar entre ofrecer entradas por Qplaneta o publicar información sobre lugares y canales de compra externos. Si habilita venta por Qplaneta también podrá vender simultáneamente por otros canales, con controles de aforo. El modo elegido no se podrá cambiar después de publicar.
+En Eventos de venta exclusivamente externa, Qplaneta actúa como canal informativo y se limita a indicar lugares o canales de compra. No procesará esos pagos, no emitirá entradas de terceros ni prestará controles de asistencia para esas operaciones, y no cobrará comisión por sus ventas. Los precios y condiciones vigentes deberán consultarse en el canal externo correspondiente.
+3. Moneda, precio final y límites mínimos
+Todos los precios, cobros, devoluciones, comisiones, saldos y liquidaciones gestionados por Qplaneta se expresarán en soles peruanos (PEN, S/).
+El precio publicado de una entrada constituye el importe final a pagar por el Participante, incluidos los tributos y conceptos obligatorios legalmente aplicables. Qplaneta no añadirá cargos al comprador por servicio, uso de la aplicación ni procesamiento ordinario mediante la pasarela de pago. El Organizador no podrá exigir después de la compra cargos obligatorios no incluidos en la oferta; podrá ofrecer complementos verdaderamente opcionales, claramente informados y no indispensables para disfrutar de lo contratado. Las ventas externas de tales complementos serán responsabilidad de quien las efectúe.
+El precio final mínimo por inscripción o cupo de una Actividad de pago comercializada mediante Qplaneta será de S/ 5.00. Para los Eventos de pago, el precio mínimo será de S/ 10.00 por entrada, aplicable a cada tipo de entrada comercializada mediante la Plataforma. Estos límites no impedirán la aplicación de los descuentos o beneficios exigidos por disposiciones legales imperativas. No se habilitarán entradas de cortesía gratuitas dentro de experiencias de pago, sin perjuicio de que puedan publicarse experiencias enteramente gratuitas.
+Los beneficios legalmente obligatorios deberán respetarse. La modalidad gratuita o de pago queda definida al publicarse la experiencia; no podrá convertirse en la otra modalidad sin nueva publicación y el respeto de los derechos ya adquiridos.
+4. Comisiones comerciales y acuerdos especiales
+Por entradas válidamente vendidas mediante las herramientas de Qplaneta, la comisión ordinaria es de quince por ciento (15 %) en Actividades y diez por ciento (10 %) en Eventos. Ambos porcentajes incluyen el Impuesto General a las Ventas (IGV) correspondiente al servicio de Qplaneta y el costo ordinario de procesamiento de pago; no se deducirá una tarifa adicional ordinaria por la pasarela al Organizador.
+Las comisiones se aplican sobre el importe efectivamente pagado por cada entrada y no reembolsado, cualquiera sea el medio de pago empleado: Pasarela de pago, Saldo a favor u operación combinada. Cuando proceda un reembolso íntegro no existirá comisión comercial definitiva por esa venta; en reembolsos parciales la comisión se recalculará únicamente sobre el importe no devuelto.
+La comisión se calcula individualmente por entrada y se redondea a dos decimales bajo una regla uniforme documentada. La comisión total de la experiencia es la suma de esos importes individuales. El tratamiento de redondeos y desglose del IGV en comprobantes se sujetará a las reglas tributarias aplicables.
+Quantum Labs S.A.C. podrá pactar porcentajes especiales con determinados Organizadores mediante acuerdo previo, expreso y escrito que determine porcentaje, experiencias comprendidas y vigencia. Estos acuerdos no podrán suponerse por negociaciones informales.
+5. Responsabilidad por costos extraordinarios de transacción
+Qplaneta asumirá los costos ordinarios de procesamiento de pagos y de transferencia de liquidaciones, los cuales se encuentran comprendidos en las comisiones comerciales aplicables a cada Experiencia.
+
+
+Cuando un Organizador cancele una Actividad o Evento de pago por causas directamente atribuibles a su decisión, error, negligencia o incumplimiento, existiendo compras previamente confirmadas mediante Qplaneta, deberá asumir una penalidad contractual equivalente al cinco por ciento (5 %) del importe total efectivamente pagado por las inscripciones o entradas afectadas.
+La penalidad será aplicable desde la primera cancelación imputable al Organizador, siempre que haya sido informada y aceptada previamente mediante las condiciones económicas o un contrato especial, y que resulte legalmente exigible.
+Esta penalidad tiene naturaleza contractual y es independiente de la comisión comercial ordinaria del quince por ciento (15 %) para Actividades y del diez por ciento (10 %) para Eventos, o de las comisiones especiales válidamente pactadas.
+La penalidad no se acumulará con otros gastos o cargos que correspondan a los mismos conceptos y hechos. Qplaneta no cobrará la comisión comercial ordinaria sobre operaciones íntegramente reembolsadas.
+La penalidad se calculará exclusivamente sobre el importe de las compras afectadas realizadas mediante Qplaneta. No comprenderá ventas efectuadas por canales externos ni otras operaciones válidamente ejecutadas por el Organizador.
+Su aplicación no afectará la devolución del cien por ciento (100 %) que corresponda a los compradores.
+No procederá la penalidad cuando la cancelación responda a fuerza mayor debidamente acreditada, falta del mínimo de participantes conforme al procedimiento aprobado, incumplimientos atribuibles a Qplaneta u otras circunstancias que excluyan legal o contractualmente la responsabilidad del Organizador.
+Cuando existan importes pendientes de liquidación, Qplaneta podrá aplicar la compensación de obligaciones económicas determinadas y exigibles, siempre que exista habilitación contractual y legal suficiente, sin afectar los fondos necesarios para atender devoluciones ni realizar descuentos arbitrarios.
+Si no existieran importes disponibles para efectuar la compensación, Qplaneta podrá requerir al Organizador el pago de la penalidad mediante los canales habilitados, proporcionando la liquidación y el sustento correspondientes.
+La penalidad y cualquier compensación aplicada deberán aparecer individualizadas en la rendición económica correspondiente.
+6. Cupos, tipos de entradas y estabilidad de precios
+El Organizador definirá antes de publicar el aforo total autorizado y, cuando existan ventas simultáneas de Eventos por Qplaneta y por canales externos, declarará la porción del aforo asignada a Qplaneta. Qplaneta no deberá emitir entradas por encima del cupo que le corresponda; el Organizador responde también por los canales externos y el aforo global.
+Después de publicar se podrán aumentar o reducir las cantidades de un tipo de entrada, siempre que su cupo nunca sea inferior a las entradas ya vendidas y que se respeten las compras en curso, el aforo total y, en su caso, el cupo de Qplaneta. Reducir el cupo al número de entradas vendidas detiene las ventas de ese tipo sin necesidad de una función separada de activación/desactivación. Posteriormente podrá aumentarse nuevamente el cupo dentro de estos límites. Los ajustes de cuota de Qplaneta frente a cuota externa estarán sujetos a validación y control previo de Qplaneta y deberán quedar registrados.
+El precio, nombre y condiciones comerciales de un tipo de entrada ya publicado no podrán alterarse. Los Organizadores de Eventos podrán crear nuevos tipos de entradas, con nombre, precio, condiciones y cupos propios, en la medida que la función esté disponible; ello no afectará los derechos de compradores anteriores. El Organizador responderá por la información veraz de beneficios, elegibilidad, restricciones y condiciones de cada tipo.
+7. Periodo de venta, reservas y pagos confirmados tardíamente
+En las Actividades de pago, la venta se cierra a la hora de inicio anunciada. En los Eventos de pago vendidos por Qplaneta, antes de publicar el Organizador deberá seleccionar si las ventas pueden continuar después de iniciado el Evento. Si selecciona que no, las ventas se cerrarán al comenzar; si selecciona que sí, fijará una fecha y hora límite de ventas no posterior al término anunciado del Evento. Esa configuración no podrá modificarse después de publicar.
+Cuando un Participante inicia una compra se reserva el cupo elegido hasta por diez (10) minutos; si no completa la compra en ese plazo, se libera. Esta reserva no prorroga el cierre de ventas: la operación deberá quedar válidamente confirmada antes de la fecha y hora límite aplicable. Se informarán previamente las fechas y horas relevantes, sin que ello suprima los derechos legales del Participante.
+Si la pasarela de pago informa el pago después del vencimiento de la reserva o del límite de ventas, Qplaneta verificará si la compra aún puede formalizarse válidamente, sin duplicación ni sobreventa y sin contravenir el cierre aplicable; si no es posible, reconocerá y restituirá el 100 % del importe cobrado, sin comisión comercial. El procedimiento se conciliará con el historial de operaciones y las respuestas de la pasarela de pago.
+8. Pagos, Saldo a favor y operaciones incompletas
+Las compras se completarán mediante los medios habilitados: pagos procesados por la pasarela de pagos, Saldo a favor disponible o, si el sistema lo permite, una combinación de ambos. Qplaneta remitirá a la pasarela de pagos únicamente los datos necesarios para el procesamiento convenido. Una operación no se considerará pagada hasta su confirmación válida.
+En una compra combinada, el Saldo a favor aplicado quedará reservado durante el procesamiento. Si el pago complementario es rechazado o expira sin confirmación, ese importe volverá a estar disponible; no se concretará una venta ni se cobrará comisión comercial. Si existe confirmación posterior se aplicarán las reglas de pagos tardíos, restitución y conciliación.
+El Saldo a favor es un importe originado en devoluciones o ajustes y no constituye cuenta bancaria, depósito, dinero electrónico de libre circulación ni una cuenta recargable voluntariamente. No puede transferirse entre usuarios, no devenga intereses ni caduca por una regla comercial unilateral. Las devoluciones en evaluación o sin fondos confirmados se muestran en historial y no son Saldo disponible.
+Los retiros de Saldo a favor y sus condiciones (retiro total del saldo disponible, transferencia, controles de titularidad y plazos) se rigen por la Política de Cancelaciones y Reembolsos. No se obligará al consumidor a aceptar Saldo interno en sustitución de una devolución dineraria legalmente exigible.
+En caso de cobro duplicado por falla técnica de una misma compra, Qplaneta verificará el caso y devolverá íntegramente el cobro indebido. La compra válida se conserva, no se genera comisión adicional y el Organizador no asume errores ajenos a su responsabilidad.
+9. Habilitación económica y cuenta de liquidación del Organizador
+Para crear experiencias de pago, el Usuario deberá completar la habilitación económica como Organizador y registrar un único destino de cobro activo, consistente en cuenta bancaria o billetera digital cuya titularidad corresponda al Organizador registrado o a la empresa identificada como responsable económico. No se efectuarán pagos a cuentas de terceros.
+La titularidad se comprobará antes de la primera liquidación. El Organizador podrá actualizar el destino de pago si la nueva cuenta corresponde al mismo titular legitimado y se verifica nuevamente. La actualización no redirige automáticamente transferencias ya aprobadas o en curso. Cuando una transferencia falle por errores de datos se gestionará la corrección y un nuevo intento con control de identidad; los costos extraordinarios eventualmente atribuibles al Organizador deberán ser reales, probados y previamente informados.
+Las experiencias exclusivamente gratuitas no requieren cuenta de cobro por el solo hecho de ser gratuitas.
+10. Liquidaciones y rendición económica
+Qplaneta calculará y descontará su comisión comercial al momento de liquidar la experiencia, una vez revisadas ventas confirmadas, cancelaciones, devoluciones, incidencias y ajustes. No retendrá definitivamente comisiones de ventas que hayan sido reembolsadas íntegramente.
+Como regla general, la liquidación al Organizador se ejecutará entre las veinticuatro (24) y cuarenta y ocho (48) horas después de finalizada la Actividad o el Evento. Si un impedimento bancario real, por ejemplo, día no operativo del sistema de transferencias, impide ejecutar en ese momento, se realizará el siguiente día bancario hábil disponible; si la transferencia puede efectuarse, no se retrasará de forma automática.
+Se realizará una liquidación separada por experiencia, sin importe mínimo de transferencia y sin acumulación obligatoria entre experiencias. Los Eventos que se desarrollen durante varios días se consideran una sola unidad económica; se realizará una liquidación luego de concluida la última jornada.
+Qplaneta suministrará al Organizador un reporte individual, mediante la aplicación cuando esté habilitado o por medio electrónico alternativo, con ventas, devoluciones, comisión incluida su carga tributaria, ajustes extraordinarios documentados, neto a transferir, fecha, estado y referencia. El costo ordinario de la pasarela de pagos no se mostrará como deducción adicional; solo se identificarán por separado los cargos excepcionales procedentes.
+11. Retenciones justificadas y saldos discutidos
+Antes de liquidar, Qplaneta podrá retener temporalmente únicamente el dinero razonablemente asociado a incidencias, contracargos, reclamaciones sustentadas, indicios de fraude u otras obligaciones vinculadas con la operación. No se retendrán indiscriminadamente fondos de experiencias ajenas. Se informará la medida al Organizador cuando sea posible y apropiado, y se documentará su motivo y resolución.
+Si se presenta una incidencia después de realizada la liquidación, Qplaneta evaluará el caso y, cuando corresponda a responsabilidad del Organizador, solicitará su reintegro dentro de los plazos de la Política de Cancelaciones y Reembolsos; podrá aplicar compensaciones futuras únicamente cuando sean legal y contractualmente procedentes. Las obligaciones exigibles al consumidor no quedarán extinguidas por la liquidación interna.
+12. Liquidaciones anticipadas mediante contrato especial
+No existe un derecho general a adelantos de ingresos por ventas. Excepcionalmente, para determinados Eventos, Quantum Labs S.A.C. podrá pactar por escrito una liberación anticipada de fondos mediante contrato individual firmado, previa evaluación y exigencia de garantías suficientes.
+El contrato fijará montos, condiciones, hitos, reservas, garantías, responsabilidades por cancelaciones, devoluciones y costos, y controles de seguimiento. La excepción no se extiende automáticamente a Actividades. En conciertos sometidos a normas especiales se aplicarán, además, sus obligaciones legales y contractuales específicas.
+13. Cancelaciones, inasistencias y errores de publicación
+Las cancelaciones voluntarias, las devoluciones por incumplimiento, los supuestos de fuerza mayor, las incidencias y el retiro del Saldo a favor se sujetan a la Política de Cancelaciones y Reembolsos vigente y a las normas imperativas. La inasistencia voluntaria o tardanza del Participante no crea, por sí sola, derecho a devolución; se respetarán los supuestos de incumplimiento, falta de información y demás derechos legalmente aplicables.
+Si un Organizador detecta un error en el precio de una Actividad o Evento publicado, no podrá exigir a los compradores que paguen la diferencia.
+Podrá solicitar la cancelación formal de la Experiencia mediante el procedimiento correspondiente. Si la cancelación resulta procedente, se devolverá el cien por ciento (100 %) de los importes pagados por las operaciones afectadas.
+Cuando el error sea imputable al Organizador y existan compras previamente confirmadas mediante Qplaneta, se aplicará la penalidad contractual del cinco por ciento (5 %) prevista en el numeral 5, siempre que haya sido válidamente aceptada y resulte legalmente exigible.
+Qplaneta no cobrará comisión comercial ordinaria sobre las ventas íntegramente reembolsadas.
+La solicitud de cancelación no genera su aprobación automática ni autoriza cancelar selectivamente compras por razones arbitrarias.
+La falta de realización de una Experiencia de pago sin cancelación oportuna también podrá generar esta penalidad cuando el incumplimiento resulte imputable al Organizador, sin perjuicio de las sanciones disciplinarias correspondientes.
+La asignación de costos y los reintegros económicos no sustituyen las medidas disciplinarias. Cuando un Organizador tercero cancele injustificadamente Experiencias de manera reiterada o no las realice sin cancelación y aviso oportunos, podrán aplicarse las advertencias, restricciones y sanciones contempladas en las Normas de la Comunidad y Política de Infracciones y Sanciones, previa evaluación humana según corresponda. Estas medidas no crean una multa porcentual adicional ni modifican las comisiones ordinarias pactadas.
+14. Contracargos, reversiones y responsabilidad por operaciones
+Si un medio de pago permite reversiones o contracargos, se investigarán las circunstancias con los registros de Qplaneta y la información de la pasarela de pagos. Los errores de procesamiento atribuibles a Qplaneta serán de su responsabilidad. Los importes y costos reales derivados de incumplimientos imputables al Organizador podrán atribuírsele conforme a la ley y al contrato, sin transferencias automáticas de riesgos.
+En presunto fraude o compra no reconocida no se presumirá responsabilidad del Organizador sin investigación. Los importes discutidos podrán inmovilizarse proporcionalmente; si la reversión ocurre después de liquidar, se gestionará el reintegro o compensación cuando proceda. Los mecanismos reales deberán contrastarse con la documentación contractual de la pasarela de pagos.
+15. Comprobantes de pago, datos tributarios e impuestos
+El Organizador es responsable de emitir y entregar directamente al comprador el comprobante tributario correspondiente a la experiencia, de acuerdo con su régimen y las normas aplicables. El Participante proporcionará directamente al Organizador los datos de facturación que sean necesarios. Qplaneta emitirá la confirmación de compra, que no sustituye el comprobante tributario, y podrá facilitar el contacto mediante el Centro de Ayuda.
+Quantum Labs S.A.C. emitirá al Organizador el comprobante tributario de las comisiones comerciales cobradas y cumplirá las obligaciones tributarias propias de su servicio. Cada Organizador responde por los tributos de sus operaciones de venta; ello no excluye obligaciones de retener, percibir, declarar u otras que la ley imponga a cualquiera de las partes atendiendo a su actuación real.
+Qplaneta no compartirá automáticamente imágenes de identificación ni datos personales de verificación para finalidades de facturación; el tratamiento de datos se rige por la Política de Privacidad y la ley.
+16. Transparencia previa y aceptación del Organizador
+Antes de publicar una experiencia de pago, Qplaneta mostrará al Organizador la comisión comercial aplicable y pondrá a su disposición esta Política. El Organizador deberá marcar una casilla de aceptación específica, antes de confirmar la publicación. Sin esa aceptación no podrá finalizar el proceso de publicación de pago.
+Qplaneta conservará, con medidas de seguridad apropiadas, trazabilidad del Organizador, la experiencia, la fecha y hora, la versión contractual y la comisión aceptada (general o especial). No se exige firma digital ni un contrato separado por cada publicación ordinaria.
+17. Cambios de comisiones y protección de publicaciones existentes
+Quantum Labs S.A.C. podrá modificar prospectivamente las comisiones generales notificando los nuevos porcentajes y su fecha de vigencia al correo registrado del Organizador con un mínimo de quince (15) días calendario de anticipación, salvo que una norma exija mayor plazo.
+Las nuevas comisiones se aplicarán solamente a experiencias publicadas después de su entrada en vigencia. Las experiencias ya publicadas conservarán la tarifa originalmente aceptada, incluso respecto de entradas todavía no vendidas. Los acuerdos especiales escritos mantendrán la tarifa y vigencia pactadas, salvo modificación válida acordada por las partes.
+18. Eventos sujetos a legislación especial
+Cuando se pretenda comercializar en Qplaneta entradas para conciertos comprendidos en la Ley N.° 32415, el servicio podrá requerir contrato especial con el Organizador y lista de verificación administrativa y técnica antes de habilitar ventas. La norma se refiere, en lo pertinente, a presentaciones musicales o artísticas con aforo igual o superior a 500 personas y contempla exclusiones específicas.
+Las autorizaciones, límite de aforo, identificación del Organizador, autenticidad y contenido de las entradas, devolución íntegra por cancelación o determinados cambios, devolución dentro del máximo legal de quince (15) días hábiles desde la solicitud y tratamiento de importes no restituidos dentro del plazo legal de ciento veinte (120) días calendario deberán cumplirse conforme a esa ley.
+El depósito interno de un importe en historial o Saldo a favor no equivale por sí solo a una devolución dineraria exigible. Ninguna estipulación contractual reducirá derechos reconocidos por esa ley o por otra disposición imperativa.
+19. Atención de incidencias y protección al consumidor
+Para consultas, aclaraciones y reclamaciones relativas a operaciones económicas, los Usuarios podrán acudir al Centro de Ayuda de Qplaneta o escribir a soporte@qplaneta.com. El Libro de Reclamaciones constituye un canal formal separado que debe mantenerse accesible según la legislación aplicable.
+Los plazos internos de reporte, evaluación y retención previstos en la Política de Cancelaciones y Reembolsos son operativos; no constituyen renuncia de derechos, no limitan reclamos ante Indecopi ni excluyen las vías de solución legalmente reconocidas. La información ofrecida al Participante deberá ser veraz, suficiente, comprensible y oportuna.
+20. Vigencia, prevalencia normativa y actualización
+La presente versión será aplicable desde su puesta a disposición en la aplicación y la aceptación exigible, previa comunicación de su fecha efectiva de vigencia. La versión y el texto aplicables a cada Experiencia podrán conservarse para acreditar las comisiones y condiciones económicas que correspondan a una operación determinada.
+Ante contradicción prevalecen las normas peruanas imperativas. La interpretación de esta Política debe mantenerse coordinada con los Términos y Condiciones y la Política de Cancelaciones y Reembolsos, sin desconocer ofertas y condiciones particulares que resulten vinculantes para el consumidor.
