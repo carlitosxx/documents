@@ -1,0 +1,278 @@
+﻿TÉRMINOS Y CONDICIONES
+DE USO DE
+QPLANETA
+Versión: 1.0
+Fecha: 5 de noviembre de 2026
+Entrada en vigencia: 13 de noviembre de 2026
+Documento contractual para usuarios y organizadores
+Huánuco – Perú
+2026
+________________
+
+
+ÍNDICE GENERAL
+1. Identificación de Qplaneta y naturaleza del contrato
+2. Objeto, alcance y servicios de Qplaneta
+3. Definiciones
+4. Aceptación, vigencia y contratación electrónica
+5. Edad mínima y participación de menores
+6. Registro, cuenta y seguridad
+7. Verificación de identidad
+8. Perfil del Usuario e información visible
+9. Tipos de Organizadores y representación
+10. Habilitación Económica y cuenta de depósito
+11. Rol de Qplaneta y naturaleza de las Experiencias
+12. Obligaciones generales de los Organizadores
+13. Creación, publicación y Condiciones Particulares
+14. Actividades
+15. Eventos
+16. Entradas, códigos QR, transferencia y condiciones de ingreso
+17. Accesibilidad y personas con discapacidad
+18. Precios, comisiones y transparencia económica
+19. Pagos, recaudación y liquidaciones
+20. Saldo a favor Qplaneta y créditos promocionales
+21. Cancelaciones y reembolsos
+22. Calificaciones, comentarios y reputación
+23. Normas de la Comunidad, reportes, moderación e infracciones
+24. Contenido aportado por los Usuarios
+25. Licencia de contenido a favor de Qplaneta
+26. Propiedad intelectual de Qplaneta y usos prohibidos
+27. Geolocalización, mapas y recomendaciones
+28. Servicios y proveedores tecnológicos de terceros
+29. Disponibilidad, mantenimiento y evolución de la Plataforma
+30. Protección de datos personales y obligaciones sobre información recibida
+31. Suspensión, restricción y cierre de cuentas
+32. Responsabilidad y distribución de riesgos
+33. Caso fortuito, fuerza mayor y circunstancias extraordinarias
+34. Atención al Usuario, incidencias y Libro de Reclamaciones
+35. Comunicaciones y notificaciones
+36. Modificación de los Términos
+37. Documentos relacionados y jerarquía contractual
+38. Disposiciones generales
+39. Ley aplicable y solución de controversias
+40. Datos de contacto y entrada en vigencia
+________________
+
+
+1. Identificación de Qplaneta y naturaleza del contrato
+Estos Términos y Condiciones de Uso (los Términos) regulan el acceso, registro, contratación y utilización de la plataforma Qplaneta, operada por Quantum Labs S.A.C. (en adelante, Qplaneta), y las obligaciones derivadas de sus funcionalidades efectivamente habilitadas.
+Estos Términos vinculan al Usuario titular de la cuenta y, cuando corresponda, a la persona natural o jurídica representada por este para publicar, administrar o comercializar Experiencias. Quien actúe en representación ajena declara contar con facultades suficientes y deberá acreditarlas cuando resulte necesario.
+Las disposiciones se interpretan junto con la Política de Precios y Condiciones Económicas, la Política de Cancelaciones y Reembolsos, las Normas de la Comunidad y la Política de Privacidad. Ninguna estipulación implica renuncia a derechos imperativos reconocidos por el ordenamiento peruano.
+2. Objeto, alcance y servicios de Qplaneta
+Qplaneta facilita el descubrimiento, organización, difusión y contratación de Actividades y Eventos presenciales. Según el rol y las funciones habilitadas, permite crear cuentas y perfiles; administrar Comunidades y perfiles de Negocio; publicar Experiencias; inscribirse; adquirir varias entradas en una operación; gestionar cobros, entradas, controles de acceso, liquidaciones; utilizar favoritos, comentarios, calificaciones, chat de Experiencia y Centro de Ayuda.
+La publicación de una Experiencia por un tercero no convierte automáticamente a Qplaneta en ejecutor de su contenido. Cuando Qplaneta sea expresamente el Organizador y proveedor directo, asumirá las obligaciones correspondientes a esa condición. Qplaneta continúa respondiendo en todo caso por sus propios Servicios, actuaciones y deberes legales.
+La información sobre fecha, lugar, horario, precio total, aforo, condiciones de ingreso, requisitos, restricciones y prestaciones incluidas forma parte de la oferta cuando resulte jurídicamente vinculante. El Usuario podrá consultarla antes de efectuar la contratación.
+3. Definiciones
+Plataforma.  Aplicación móvil y demás interfaces digitales oficiales de Qplaneta.
+Servicios.  Funcionalidades tecnológicas y comerciales que Qplaneta presta directamente.
+Usuario.  Persona natural mayor de 18 años titular de una cuenta; las expresiones Comprador, Participante y Asistente identifican roles distintos.
+Consumidor.  Persona que, en una relación concreta, reúne los requisitos legales del Código de Protección y Defensa del Consumidor, independientemente de su condición de Usuario.
+Participante.  Persona inscrita en una Actividad, sea o no titular de la cuenta compradora.
+Asistente.  Persona que utiliza legítimamente una entrada o derecho de acceso a un Evento.
+Comprador.  Usuario que efectúa la compra o contratación mediante Qplaneta, incluso cuando adquiere varias entradas para otras personas.
+Organizador.  Persona, Comunidad, Negocio o Qplaneta que crea, ofrece o gestiona una Experiencia.
+Persona.  Perfil de Organizador individual verificado, habilitado inicialmente para Actividades.
+Comunidad.  Perfil de personas reunidas alrededor de intereses o Experiencias comunes, sin que su creación confiera personalidad jurídica.
+Negocio.  Perfil asociado con una persona natural con negocio o persona jurídica identificada.
+Responsable de Gestión.  Persona natural verificada que administra un perfil Organizador.
+Responsable Económico.  Persona natural o jurídica identificada para los cobros, tributos, comprobantes y liquidaciones de la Experiencia.
+Proveedor de la prestación.  Sujeto a quien corresponden jurídicamente las obligaciones de la Experiencia, atendiendo a las características reales de la operación.
+Habilitación Económica.  Procedimiento de verificación tributaria, de representación y de titularidad del medio de liquidación para ofrecer Experiencias de pago.
+Experiencia.  Denominación conjunta de las Actividades y los Eventos admitidos por Qplaneta.
+Actividad.  Experiencia presencial social, deportiva, cultural, educativa, gastronómica, recreativa o similar, sujeta a condiciones particulares de participación.
+Evento.  Experiencia presencial usualmente sujeta a horario, lugar y aforo, cuyo acceso puede gestionarse mediante entradas.
+Entrada.  Registro que representa un derecho de acceso o participación bajo condiciones definidas. Cuando Qplaneta la emite, puede vincularse a un QR o identificador digital.
+Saldo a favor.  Importe derivado de devoluciones o ajustes de operaciones anteriores, efectivamente disponible para nuevas compras o retiro conforme a la política aplicable.
+Medio de liquidación.  Una cuenta bancaria o billetera digital validada, de titularidad del Organizador o Responsable Económico autorizado.
+Condiciones Particulares.  Información y reglas específicas de cada Experiencia que el Organizador establece mediante los campos expresamente habilitados.
+Reglas Adicionales.  Instrucciones de logística, seguridad y acceso del Organizador, sin capacidad de restringir derechos ni alterar las políticas de Qplaneta.
+Documentos Complementarios.  Políticas, normas y condiciones contractuales específicas válidamente puestas a disposición.
+4. Aceptación, vigencia y contratación electrónica
+Qplaneta pondrá a disposición los Términos y los documentos contractuales aplicables antes de solicitar su aceptación. La contratación de pago exige una acción afirmativa e inequívoca; la mera navegación no constituye aceptación de un pago.
+Antes de publicar cada Experiencia de pago, el Organizador visualizará las condiciones económicas aplicables y marcará una casilla de aceptación expresa. Se conservará, de acuerdo con las posibilidades y obligaciones legales, evidencia del Organizador, Experiencia, fecha, hora, versión contractual y comisión aceptada.
+Qplaneta podrá conservar registros técnicos razonables de versiones, aceptación y operaciones. La aceptación de los Términos no equivale a consentimiento para publicidad ni para todos los tratamientos de datos personales; las autorizaciones separadas se solicitarán cuando corresponda.
+Como regla general, a una compra se aplican las condiciones válidamente informadas cuando fue confirmada. Las actualizaciones posteriores se regirán por la sección 36 y no eliminarán derechos ya adquiridos.
+5. Edad mínima y participación de menores
+Solo personas naturales de dieciocho (18) años o más podrán crear cuentas y actuar como Compradores u Organizadores en Qplaneta. Los menores no podrán abrir cuentas, administrar perfiles ni contratar directamente a través de la Plataforma.
+Podrán asistir menores a Experiencias que expresamente los admitan. La compra o inscripción será realizada por un adulto que cuente con las autorizaciones legales correspondientes; cuando sea exigible deberá existir acompañamiento presencial y cumplimiento de los requisitos de edad, ingreso y seguridad.
+La presencia de menores no reduce las obligaciones del Organizador. Qplaneta no creará cuentas de menores para emitirles entradas y tratará sus datos solo cuando resulte necesario y legítimo.
+6. Registro, cuenta y seguridad
+El Usuario proporcionará datos exactos y actualizados y será responsable de custodiar sus credenciales. La cuenta es personal e intransferible; cuando un Negocio o Comunidad tenga varios administradores, cada uno utilizará su propia cuenta.
+El Usuario informará oportunamente intentos de suplantación o acceso no autorizado. Qplaneta podrá requerir nueva autenticación o restringir temporalmente funciones ante indicios objetivos de fraude, vulnerabilidad o riesgo. No se atribuirá automáticamente al Usuario responsabilidad por operaciones fraudulentas ajenas a él.
+No se permite crear cuentas múltiples para eludir sanciones, manipular reputación, utilizar medios de pago ajenos sin autorización, suplantar identidades o afectar a otros Usuarios.
+7. Verificación de identidad
+Qplaneta podrá verificar identidades para favorecer confianza y trazabilidad. Para actuar como Organizador se requiere la verificación correspondiente; para un Participante no es obligatoria como regla general, salvo supuesto legal o medida individual justificada.
+El proceso puede incluir datos identificativos, documento de identidad y fotografías necesarias para el cotejo. La foto tipo selfie puede emplearse como imagen de perfil según se informa en la Política de Privacidad; la imagen del documento utilizada para verificación no se hace pública y se conserva únicamente durante el periodo jurídicamente justificado.
+El distintivo de cuenta verificada solo acredita la realización de un procedimiento de correspondencia de identidad. No certifica antecedentes, experiencia profesional, licencias, conducta futura ni seguridad o calidad de las Experiencias.
+8. Perfil del Usuario e información visible
+El perfil podrá mostrar nombre, fotografía, intereses, ubicación general e indicadores o reputación habilitados. Qplaneta informará qué datos serán visibles y tratará las opciones de privacidad conforme a su Política de Privacidad.
+El correo, teléfono, número e imagen del documento de identidad, datos bancarios y ubicación precisa del dispositivo no forman parte de la información pública ordinaria del perfil. Ninguna etiqueta de identidad verificada debe interpretarse como aval de Qplaneta sobre la conducta de una persona.
+9. Tipos de Organizadores y representación
+9.1. Organizador Persona
+El perfil Persona corresponde a un Usuario individual verificado. Puede publicar Actividades gratuitas; para ofrecer Actividades de pago deberá completar la Habilitación Económica.
+9.2. Organizador Comunidad
+Una Comunidad es administrada por un Responsable de Gestión verificado. Puede publicar Actividades y Eventos gratuitos conforme a los controles habilitados. Para comercializar entradas de pago debe contar con Responsable Económico identificado y Habilitación Económica válida. Cuando sean personas distintas, podrá requerirse documentación que acredite representación.
+9.3. Organizador Negocio
+El perfil Negocio representa a una persona natural con negocio o jurídica debidamente identificada. Podrá publicar Experiencias gratuitas conforme a sus permisos de cuenta; para comercializar Experiencias de pago deberá completar la Habilitación Económica y acreditar titularidad o representación cuando corresponda.
+La posibilidad técnica de publicar no sustituye licencias, autorizaciones, seguros ni requisitos legales propios de cada Experiencia.
+10. Habilitación Económica y cuenta de depósito
+Para crear Experiencias de pago el Organizador deberá completar durante su habilitación el registro del Responsable Económico, la información tributaria exigible y un único medio activo de liquidación, sea cuenta bancaria o billetera digital de titularidad del mismo Organizador o sujeto responsable legitimado. No se liquidarán fondos a cuentas de terceros.
+Qplaneta podrá solicitar RUC y razón social, datos de entidad financiera o billetera, CCI u otro identificador permitido, evidencia mínima de titularidad y acreditación de representación. La validación de identidad personal por sí sola no habilita la comercialización de pago.
+El Organizador podrá actualizar el medio de liquidación, sujeto a nueva comprobación del titular. Las operaciones ya aprobadas o en proceso no se redirigirán automáticamente. Si una transferencia es rechazada, se revisarán los datos y se efectuará nuevo intento tras verificar la corrección. Los costos extraordinarios se asignarán según responsabilidad demostrada y condiciones válidamente informadas.
+La publicación de Experiencias exclusivamente gratuitas no exige un medio de cobro por ese solo hecho. Cuando la ley lo requiera, la oferta identificará al verdadero sujeto comercializador mediante nombre o razón social y RUC, sin perjuicio de la forma operativa de su visualización.
+11. Rol de Qplaneta y naturaleza de las Experiencias
+Qplaneta puede actuar como plataforma de intermediación tecnológica para un tercero o como Organizador directo cuando así se identifique expresamente en la oferta. Su papel concreto se determina según quién ofrezca, ejecute y controle la prestación.
+El Organizador tercero responde por la información y ejecución de su Experiencia, su personal, permisos, seguridad, aforo, idoneidad y condiciones de acceso; Qplaneta mantiene responsabilidad por pagos, registros, soporte y demás actuaciones a su cargo o que legalmente le correspondan.
+Cuando Qplaneta sea proveedor directo, será responsable por la contratación de colaboradores o proveedores para ejecutar tareas de la Experiencia.
+12. Obligaciones generales de los Organizadores
+El Organizador deberá brindar información veraz, suficiente y actualizada; cumplir la oferta y las Condiciones Particulares; disponer de permisos y habilitaciones aplicables; observar normas de seguridad, accesibilidad y aforo; informar requisitos, riesgos y restricciones; atender incidencias y colaborar en investigaciones o devoluciones; respetar los datos personales y la imagen de asistentes y terceros; emitir sus comprobantes; y atender sus obligaciones tributarias.
+El Organizador deberá realizar efectivamente las Experiencias publicadas en las condiciones anunciadas. Si conoce una imposibilidad de ejecución, deberá registrar la cancelación mediante el mecanismo formal habilitado por Qplaneta tan pronto como resulte razonablemente posible y comunicarla oportunamente a los participantes o compradores, sin perjuicio de las notificaciones que emita la Plataforma. No realizar una Experiencia sin cancelación y aviso oportunos, así como cancelar injustificadamente de manera reiterada, podrá constituir una infracción conforme a las Normas de la Comunidad y Política de Infracciones y Sanciones.
+El Organizador no podrá exigir cobros obligatorios no incluidos en el precio final informado antes de la compra. Podrá ofrecer complementos genuinamente opcionales que no sean imprescindibles para recibir lo contratado, aclarando su costo y condiciones. Cuando una cancelación o falta de realización le sea imputable, deberá cumplir las obligaciones de restitución y asumir los costos transaccionales que correspondan conforme a las políticas aplicables, independientemente de las medidas disciplinarias.
+Qplaneta podrá solicitar evidencias de cumplimiento según la naturaleza o el riesgo de la Experiencia. La publicación en Qplaneta no implica certificación institucional de licencias, calidad, seguridad o cumplimiento del Organizador. Qplaneta continuará respondiendo por sus propias obligaciones y por aquellas que legalmente le correspondan.
+Cuando una Actividad o Evento de pago sea cancelado por causas imputables al Organizador, existiendo compras previamente confirmadas mediante Qplaneta, este asumirá las responsabilidades económicas establecidas en la Política de Precios y Condiciones Económicas, incluida la penalidad contractual equivalente al cinco por ciento (5 %) del importe pagado por las operaciones afectadas, siempre que haya sido previamente informada y aceptada y resulte legalmente exigible. Esta responsabilidad será independiente de las sanciones disciplinarias que correspondan y no reducirá los derechos de devolución de los compradores.
+13. Creación, publicación y Condiciones Particulares
+El Organizador consignará los datos requeridos, incluyendo según corresponda: nombre, descripción, responsable, fecha, duración, lugar, capacidad, mínimo de participantes, modalidad gratuita o de pago, tipos y precios de entradas, beneficios incluidos, requisitos, restricciones de edad, accesibilidad y condiciones de ingreso.
+Las Condiciones Particulares se configuran exclusivamente mediante las opciones habilitadas y forman parte de la oferta. Una vez publicada, la modalidad gratuita o de pago no podrá cambiarse; tampoco podrá alterarse el precio de un tipo de entrada publicado. Los cambios de cupos, cuando procedan, no afectarán las ventas confirmadas ni las reservas temporales vigentes.
+Los campos de Reglas Adicionales podrán utilizarse para logística, seguridad y acceso. Queda prohibido incorporarlos, por texto, enlace o archivo, para sustituir derechos de los consumidores, modificar comisiones, pagos, reembolsos, tratamiento de datos, responsabilidad o mecanismos legales de reclamación.
+Cuando existan inscripciones o compras, las modificaciones esenciales estarán sujetas a las restricciones aplicables. Si un error relevante obliga a cancelar la Experiencia, el Organizador deberá seguir el procedimiento formal de cancelación y restitución, no modificar unilateralmente el contrato.
+14. Actividades
+Las Actividades pueden ser gratuitas o de pago. En Actividades de pago, las compras por Qplaneta se cerrarán automáticamente a la hora de inicio publicada. La inasistencia voluntaria no genera por sí sola reembolso; los derechos de cancelación se rigen por la política correspondiente.
+El Organizador podrá fijar aforo, mínimo de participantes y requisitos objetivos. La insuficiencia del mínimo se resolverá conforme a los plazos y efectos previstos en la Política de Cancelaciones y Reembolsos, incluidas las devoluciones que correspondan.
+El cupo podrá ajustarse sin desconocer ventas y reservas ni exceder el aforo. Una entrada efectivamente cancelada podrá liberar cupo para nueva venta mientras el periodo de comercialización esté abierto; una solicitud pendiente no libera cupo. La reventa es una operación económica independiente.
+Cuando la Actividad presente riesgos previsibles relevantes, el Organizador deberá informar precauciones, requisitos físicos y materiales necesarios. La información sobre riesgos no equivale a renuncia del participante a reclamar negligencia, falta de idoneidad o fallos de seguridad imputables.
+15. Eventos
+Los Eventos pueden ser gratuitos o de pago. Antes de publicar, el Organizador elegirá: (i) venta de entradas por Qplaneta; o (ii) publicación informativa de los lugares y canales externos donde pueden adquirirse. Esa elección no podrá cambiarse después de la publicación.
+En publicaciones exclusivamente informativas, Qplaneta no procesará pagos ni emitirá entradas, no gestionará el precio externo ni la asistencia de compradores externos y no cobrará comisión por esas ventas. No es obligatorio mostrar los precios de venta externa: el comprador deberá consultarlos en el canal señalado.
+Cuando se habiliten ventas por Qplaneta, el Organizador también podrá comercializar por canales externos. Deberá declarar el aforo autorizado y asignar previamente un cupo exclusivo de venta a Qplaneta, que no podrá excederse. Las modificaciones se limitarán a cupos no vendidos y requerirán validación y trazabilidad. El Organizador es responsable del aforo total y de evitar sobreventas en otros canales.
+En Eventos pagados vendidos por Qplaneta, el Organizador decidirá antes de publicar si admite nuevas ventas luego de iniciarse. Si no las admite, el cierre se producirá a la hora de inicio. Si las admite, deberá fijar fecha y hora límite no posteriores a la finalización programada; esa configuración será inmodificable una vez publicado. La reserva temporal de compra no ampliará el cierre.
+Deberán informarse claramente horarios de apertura, cierre de ingreso, aforo, categoría o zona, artistas u otros componentes esenciales, restricciones de edad, condición de discapacidad o accesibilidad, y normas de ingreso. Si se permite vender durante el Evento, sus condiciones de acceso deberán permitir realmente disfrutar de la prestación adquirida, sin perjuicio de los derechos del consumidor.
+Los conciertos comprendidos en el ámbito de la Ley N.° 32415 y otras normas especiales requerirán, antes de habilitar ventas, la validación de sus condiciones legales específicas, documentación y contrato especial exigidos por Qplaneta. La norma imperativa prevalecerá ante cualquier estipulación incompatible.
+16. Entradas, códigos QR, transferencia y condiciones de ingreso
+Qplaneta emitirá entradas o identificadores digitales únicamente para compras realizadas a través de su propio flujo. La entrada será válida para la Experiencia, fecha, categoría, condiciones y requisitos bajo los cuales fue adquirida. Las entradas canceladas, anuladas o reembolsadas dejarán de habilitar acceso.
+Un Comprador podrá adquirir varias entradas para acompañantes. Cuando corresponda, podrá compartir fuera de la aplicación el QR de una entrada adicional con la persona que vaya a utilizarla. Compartir ese identificador no constituye transferencia interna de titularidad entre cuentas Qplaneta; los pagos, cancelaciones y reembolsos serán gestionados por el Comprador original.
+El Comprador y el Asistente deberán proteger la integridad del QR y evitar copias o usos fraudulentos. Un QR utilizado o invalidado podrá rechazarse conforme a las condiciones de ingreso legítimas.
+El Organizador podrá verificar identidad, edad, acreditaciones y demás requisitos previstos en la oferta, siempre de forma proporcional, no discriminatoria y legal. La denegatoria de acceso no implica pérdida automática de todo derecho a devolución: dependerá de su causa y del marco aplicable.
+Cuando se habilite la toma de asistencia de Actividades mediante QR, el Organizador podrá escanear el código que muestre el Participante. Los registros de asistencia no sustituyen por sí solos la evaluación de reclamos por denegación ilegítima de acceso.
+17. Accesibilidad y personas con discapacidad
+Qplaneta y los Organizadores respetarán los derechos legales de accesibilidad, igualdad y descuentos aplicables a personas con discapacidad. Para los espectáculos comprendidos en el artículo 44 de la Ley N.° 29973, deberán ofrecerse los beneficios y cupos legalmente exigidos, sin restringirlos indebidamente.
+Las entradas podrán identificar una categoría de beneficio por discapacidad sin crear automáticamente un perfil del Usuario. La acreditación se efectuará, cuando corresponda, ante el Organizador conforme a documentos y procedimientos permitidos por ley; Qplaneta no requerirá como regla general cargar documentación médica para esa finalidad.
+La categoría de beneficio no autoriza que un Asistente no elegible utilice una entrada con derecho condicionado. Cualquier cambio normativo imperativo prevalecerá sobre porcentajes o reglas contractuales.
+18. Precios, comisiones y transparencia económica
+El precio publicado de la entrada es el importe final que pagará el Comprador, incluidos los tributos y cargos obligatorios que correspondan. Qplaneta no agregará recargos ordinarios por uso de la Plataforma ni procesamiento de pago; no podrán exigirse después de la compra pagos obligatorios no informados previamente.
+La publicación de Actividades y Eventos, gratuitos o de pago, no tiene tarifa fija. Por las ventas mediante Qplaneta de entradas válidas y no reembolsadas, Qplaneta cobrará al Organizador una comisión ordinaria de 15 % para Actividades y 10 % para Eventos; estos porcentajes incluyen IGV del servicio y el costo ordinario de procesamiento de pago. No existe descuento adicional por dicho costo ordinario de pasarela.
+Las comisiones se calculan por entrada sobre el importe realmente pagado y no reembolsado, con redondeo uniforme a dos decimales por entrada. Se aplica el mismo criterio cuando el pago se realiza por la pasarela, Saldo a favor o ambos. Cuando una operación se reembolsa íntegramente no habrá comisión comercial definitiva; en reembolsos parciales la comisión se ajustará proporcionalmente sobre lo no devuelto.
+El precio mínimo por inscripción o cupo de una Actividad de pago comercializada mediante Qplaneta será de S/ 5.00. Para los Eventos de pago, el precio mínimo será de S/ 10.00 por entrada, aplicable a cada tipo de entrada comercializada mediante la Plataforma. Se exceptúan los descuentos o beneficios exigidos por disposiciones legales imperativas. En los Eventos podrá crearse un nuevo tipo de entrada con un precio distinto cuando dicha funcionalidad esté habilitada, siempre que respete el precio mínimo correspondiente. No podrá modificarse el precio de un tipo de entrada ya publicado.
+Quantum Labs S.A.C. podrá negociar condiciones de comisión especiales con determinados Organizadores, formalizadas previamente por escrito con porcentaje, ámbito y duración. Las comisiones estarán disponibles antes de publicar y el Organizador marcará un checkbox específico de aceptación de las condiciones económicas.
+Los costos extraordinarios reales y justificables por error, incumplimiento o cancelación imputables al Organizador podrán cargársele solo cuando corresponda legal y contractualmente, sin doble cobro ni disminución de una restitución íntegra al consumidor. La Política de Precios y Condiciones Económicas detalla el cálculo y la rendición.
+19. Pagos, recaudación y liquidaciones
+Los pagos por entradas gestionadas mediante Qplaneta se procesan a través de una pasarela de pagos y, cuando la función esté operativa, mediante Saldo a favor o pago combinado. El flujo técnico no implica que Qplaneta preste depósitos bancarios, cuentas de pago de uso general o servicios financieros que no haya habilitado legalmente.
+Al iniciar una compra, según el funcionamiento informado por ingeniería, las entradas seleccionadas quedan reservadas hasta por diez (10) minutos. Si no se concreta la compra, el cupo se libera; pero la reserva no extiende la hora límite de ventas. Una compra debe resultar válida y confirmada antes del cierre de su comercialización. Las confirmaciones tardías, rechazadas, duplicadas o fuera de orden se conciliarán y, si no puede emitirse válidamente la entrada, corresponderá restitución del importe cobrado.
+Como regla general, Qplaneta realizará una liquidación individual por Experiencia al Organizador, generalmente entre las veinticuatro (24) y cuarenta y ocho (48) horas después de su finalización, sin monto mínimo. Los Eventos multijornada se consideran una sola Experiencia y se liquidan después de la última jornada. Si existe un impedimento bancario real, se transferirá en el siguiente día hábil bancario disponible, sin demorar cuando el medio permita transferir antes.
+La comisión comercial y los ajustes legítimos se descontarán al momento de la liquidación. Qplaneta asumirá los costos ordinarios de transferir los fondos al Organizador. Este recibirá una rendición individual por Experiencia con ventas, devoluciones, comisiones, ajustes, importe neto, fecha y referencia, mediante la aplicación o un medio electrónico equivalente.
+Ante controversias razonablemente justificadas, contracargos, fraude o incumplimientos, Qplaneta podrá retener temporalmente solo fondos directamente vinculados a la contingencia, sin inmovilizar importes ajenos. Si la devolución corresponde a una obligación del Organizador ya liquidada, se aplicarán los reintegros o compensaciones autorizadas y el marco de protección al consumidor.
+No se concederán anticipos por regla general. Solo en determinados Eventos podrá acordarse liberación anticipada mediante contrato especial escrito, garantías suficientes y cláusulas de desembolso, retorno de fondos y protección de devoluciones. No existe derecho automático a adelantos.
+20. Saldo a favor Qplaneta y créditos promocionales
+El Saldo a favor Qplaneta representa exclusivamente importes de devoluciones o ajustes relacionados con pagos anteriores. No es un depósito, cuenta bancaria, billetera recargable libremente, mecanismo de transferencias entre Usuarios, ni medio de pago fuera de Qplaneta. No genera intereses.
+Los importes que aún estén en evaluación o pendientes de fondos no son Saldo disponible y solo podrán reflejarse en el historial. El Saldo efectivamente disponible podrá utilizarse en nuevas compras de Qplaneta y solicitarse su retiro total mediante los mecanismos previstos en la Política de Cancelaciones y Reembolsos.
+En los retiros no se cobrará una tarifa de Qplaneta; los gastos ordinarios de transferencia serán asumidos por Qplaneta. Se aplicarán controles razonables de autenticación y titularidad del destino de pago, así como el plazo contractual de procesamiento, sujeto a plazos legales imperativos más favorables.
+El Usuario no será obligado a aceptar crédito interno como sustituto de una devolución dineraria exigible legalmente. La baja o cierre de cuenta no extingue sumas que legítimamente deban restituirse.
+21. Cancelaciones y reembolsos
+La Política de Cancelaciones y Reembolsos establece los supuestos, porcentajes, procedimientos y plazos aplicables.
+En las Actividades de pago, la primera cancelación voluntaria del comprador realizada con al menos cuarenta y ocho (48) horas de anticipación permitirá la devolución del cien por ciento (100 %) del importe pagado, sin aplicación de cargos por procesamiento, registrándose una advertencia preventiva conforme a las Normas de la Comunidad y Política de Infracciones y Sanciones.
+A partir de la segunda cancelación voluntaria realizada dentro de ese mismo plazo, podrá aplicarse un cargo equivalente al cinco por ciento (5 %) del importe efectivamente pagado por las inscripciones canceladas, siempre que dicho cargo haya sido informado previamente y resulte legalmente exigible. Cuando proceda su aplicación, el comprador recibirá una devolución equivalente al noventa y cinco por ciento (95 %) del importe pagado.
+Las cancelaciones voluntarias realizadas con menos de cuarenta y ocho (48) horas, pero con al menos veinticuatro (24) horas de anticipación, permitirán la devolución del cincuenta por ciento (50 %) del importe pagado. Las cancelaciones realizadas con menos de veinticuatro (24) horas no generarán devolución por motivos exclusivamente voluntarios, sin perjuicio de los derechos legalmente reconocidos o condiciones más favorables aplicables.
+La reiteración de cancelaciones voluntarias de Actividades de pago podrá generar advertencias, amonestaciones, suspensiones temporales y, en los supuestos expresamente previstos, una propuesta de expulsión permanente, conforme a la escala y al procedimiento establecidos en las Normas de la Comunidad y Política de Infracciones y Sanciones. La expulsión permanente requerirá evaluación humana previa a la decisión definitiva.
+La progresividad de dichas medidas se regirá por el sistema de niveles establecido en las Normas de la Comunidad. La participación satisfactoria y verificable en una Experiencia permitirá reducir un nivel de progresividad, sin dejar automáticamente sin efecto las sanciones temporales que ya se encuentren en ejecución ni las obligaciones económicas legítimamente generadas.
+En los Eventos de pago, la cancelación voluntaria por motivos exclusivamente personales no genera devolución como regla general, salvo obligación legal, incumplimiento, cambio sustancial no aceptado u otra excepción contemplada. La inasistencia por motivos personales no crea por sí sola derecho automático de reembolso.
+Ante cancelación imputable al Organizador o falta de realización de una Experiencia de pago comercializada mediante Qplaneta, corresponde como regla la devolución del cien por ciento (100 %) de los importes pagados por las operaciones afectadas, sin trasladar al comprador costos de intermediación que reduzcan la restitución exigible.
+El Organizador deberá registrar formalmente la cancelación tan pronto como conozca la imposibilidad de ejecución.
+Cuando la cancelación sea directamente imputable al Organizador, existiendo compras confirmadas mediante Qplaneta, se aplicará una penalidad contractual equivalente al cinco por ciento (5 %) del importe pagado por las operaciones afectadas, conforme a la Política de Precios y Condiciones Económicas, siempre que haya sido previamente aceptada y resulte legalmente exigible.
+Cuando el Organizador detecte un error esencial de precio, podrá solicitar la cancelación formal de la Actividad o Evento. Si procede, se restituirá el cien por ciento (100 %) del importe pagado y se aplicará la penalidad contractual correspondiente cuando el error sea imputable al Organizador.
+La penalidad no constituye la comisión comercial ordinaria de Qplaneta y no se aplicará conjuntamente con otros cargos correspondientes a los mismos conceptos. No procederá cuando existan causas eximentes válidamente acreditadas.
+La devolución económica es distinta de las sanciones previstas por las Normas de la Comunidad y Política de Infracciones y Sanciones. Las cancelaciones injustificadas reiteradas y la falta de realización sin cancelación oportuna podrán dar lugar a advertencias, restricciones de publicación, suspensión de la función de Organizador o expulsión, según la gravedad, reiteración y procedimiento aplicables. No se impondrán sanciones definitivas a Organizadores sin evaluación humana de los hechos y sus justificaciones.
+Las modificaciones sustanciales, prestaciones parciales, supuestos de fuerza mayor debidamente acreditados y excepciones previstas por normas especiales se evaluarán conforme a la Política de Cancelaciones y Reembolsos y la legislación vigente. Invocar fuerza mayor no excluirá automáticamente derechos de restitución.
+Los reclamos relativos a pagos, devoluciones, denegaciones injustificadas de acceso y compras externas se atenderán conforme al ámbito real de actuación de Qplaneta. Las entradas adquiridas en canales externos no serán emitidas ni reembolsadas por Qplaneta como si se hubieran vendido mediante su sistema.
+Para los conciertos comprendidos en el ámbito de la Ley N.° 32415 se observarán las reglas especiales que correspondan. El Saldo a favor no sustituirá unilateralmente un derecho de devolución dineraria.
+22. Calificaciones, comentarios y reputación
+Qplaneta podrá mostrar calificaciones, comentarios y reputación de Participantes y Experiencias cuando la función esté habilitada. Las valoraciones deberán reflejar participación real, formularse de buena fe y respetar derechos de terceros. No se permite falsificar asistentes, manipular calificaciones, hostigar ni divulgar datos indebidamente.
+El sistema de reputación del Participante podrá incorporar puntualidad, buena vibra, colaboración, comunicación y respeto; la calificación de una Experiencia podrá contemplar organización, puntualidad, cumplimiento, ambiente y seguridad, según las interfaces disponibles.
+Qplaneta no eliminará una opinión por el solo hecho de ser desfavorable, pero podrá restringir contenido ilícito, falsificado, discriminatorio, intimidatorio o contrario a las Normas. Las calificaciones no constituyen certificación de seguridad, aptitud ni calidad.
+23. Normas de la Comunidad, reportes, moderación e infracciones
+Los Usuarios y Organizadores deberán observar las Normas de la Comunidad y Política de Infracciones y Sanciones aplicables. Podrán reportarse conductas que afecten la seguridad, derechos, integridad de pagos o convivencia, así como contenido potencialmente ilícito, cancelaciones injustificadas reiteradas de Organizadores y falta de realización de Experiencias sin aviso oportuno.
+La existencia de un reporte no acredita por sí misma una infracción. La evaluación tomará en cuenta los hechos verificables, su imputabilidad, las justificaciones disponibles, la gravedad, la reiteración, los posibles perjuicios y la proporcionalidad. Podrán adoptarse medidas temporales preventivas razonables ante riesgos objetivos y situaciones urgentes.
+El régimen disciplinario podrá comprender advertencias, suspensiones temporales y, respecto de Organizadores terceros, restricciones para publicar o comercializar nuevas Experiencias. Como regla general, estas medidas no interrumpirán automáticamente las ventas de Experiencias ya publicadas, la ejecución de prestaciones contratadas ni la atención de devoluciones y reclamos. Una restricción adicional de operaciones activas requerirá una evaluación específica y motivada.
+Las sanciones definitivas de Organizadores, las sanciones graves y toda expulsión permanente requerirán intervención humana y revisión de los hechos conforme al procedimiento aplicable. El Usuario podrá acudir al Centro de Ayuda para solicitar revisión. Ninguna medida disciplinaria extinguirá por sí sola derechos económicos legítimos ni obligaciones legales pendientes.
+24. Contenido aportado por los Usuarios
+El Usuario podrá publicar fotografías, textos, logotipos, comentarios y otros materiales admitidos en Qplaneta; conservará los derechos de propiedad intelectual que le correspondan. Declara disponer de licencias y autorizaciones necesarias, respetando derechos de imagen y de menores de edad.
+Las publicaciones de Experiencias deben corresponder a lo verdaderamente ofrecido. Qplaneta podrá suspender o eliminar contenido fundadamente ilícito, engañoso, inseguro o violatorio de derechos de terceros o sus políticas, evitando restricciones arbitrarias.
+Las imágenes de menores y cualquier contenido que exponga información personal ajena requieren especial cuidado y autorizaciones legalmente exigibles.
+25. Licencia de contenido a favor de Qplaneta
+Para permitir la prestación del Servicio, el Usuario otorga una licencia no exclusiva, gratuita y limitada a finalidades legítimas de operación, almacenamiento, visualización, adaptación técnica de formato y promoción de la Experiencia cuando haya aportado expresamente material para ella.
+La licencia no transfiere propiedad sobre el contenido y solo podrá sublicenciarse técnicamente en lo necesario a proveedores autorizados. El uso de imagen, voz o contenidos identificables se sujetará a autorizaciones y obligaciones legales. La eliminación del contenido interrumpe en principio nuevos usos, sin invalidar usos anteriores legítimos ni obligaciones de conservación.
+26. Propiedad intelectual de Qplaneta y usos prohibidos
+El código, interfaces, signos distintivos, diseño, bases de datos, documentación y demás elementos protegidos pertenecen a sus respectivos titulares. Qplaneta concede al Usuario autorización limitada, personal y no transferible para utilizar la Plataforma conforme a su finalidad.
+No se permite sin autorización explotar comercialmente el software, eludir controles de seguridad, acceder a cuentas o datos ajenos, insertar código malicioso, interferir servicios o extraer masivamente datos de usuarios y publicaciones mediante técnicas automatizadas contrarias a las condiciones de uso.
+El uso de logotipos, material de marca o recursos gráficos de Qplaneta se sujetará a las guías y autorizaciones correspondientes; la prohibición contractual no convierte por sí sola toda conducta técnicamente denominada extracción automatizada en ilícita en cualquier contexto.
+27. Geolocalización, mapas y recomendaciones
+Cuando se autorice, Qplaneta podrá utilizar información de ubicación para mostrar u ordenar Experiencias cercanas. El Usuario podrá gestionar los permisos del dispositivo y la ubicación registrada en su perfil, dentro de las funciones disponibles.
+La ubicación precisa del dispositivo no será pública por defecto. Los tratamientos de datos, su conservación y el uso de información histórica se regirán por la Política de Privacidad, incluso después de retirar un permiso. El Organizador es responsable de suministrar la ubicación correcta de la Experiencia.
+Las recomendaciones podrán basarse en información legítimamente tratada, como intereses, categorías y ubicación, sin implicar decisiones automatizadas con efectos jurídicos no informados.
+28. Servicios y proveedores tecnológicos de terceros
+Qplaneta podrá recurrir a proveedores especializados que efectivamente estén integrados para procesamiento de pagos, mensajería transaccional, notificaciones y servicios técnicos de seguridad y conectividad.
+La intervención de proveedores externos no elimina las obligaciones legales de Qplaneta sobre sus propios Servicios, ni autoriza la comunicación de datos innecesarios. Qplaneta adoptará medidas contractuales, de confidencialidad y de seguridad exigibles a los servicios que traten información por su cuenta.
+La disponibilidad o fallas de terceros podrán afectar temporalmente algunas operaciones; cuando se produzcan cobros o registros incorrectos se aplicarán las reglas de conciliación, devolución y responsabilidad correspondientes.
+29. Disponibilidad, mantenimiento y evolución de la Plataforma
+Qplaneta procurará mantener una disponibilidad razonable, sin prometer continuidad absoluta ni ausencia de fallas. Podrá realizar mantenimientos, actualizaciones de seguridad y correcciones; las interrupciones relevantes se comunicarán cuando razonablemente resulte posible.
+Ante incidentes técnicos buscará diagnosticar y limitar los efectos, especialmente los vinculados con compras, saldos, QR y liquidaciones. Las modificaciones técnicas que no afecten materialmente derechos podrán implementarse sin nueva aceptación contractual; los cambios contractuales sustanciales se regirán por la sección 36.
+La suspensión de una función no extingue automáticamente operaciones o derechos económicos válidamente adquiridos.
+30. Protección de datos personales y obligaciones sobre información recibida
+Qplaneta tratará datos personales conforme a la Ley N.° 29733, al Reglamento aprobado por Decreto Supremo N.° 016-2024-JUS y a su Política de Privacidad, donde se detallan finalidades, destinatarios, conservación, seguridad y derechos de los titulares.
+La aceptación de estos Términos no autoriza por sí misma comunicaciones comerciales ni tratamientos que requieran consentimiento específico. Los datos de verificación de identidad, en especial imágenes de DNI y documentos de control, no serán entregados automáticamente a Organizadores para fines de facturación.
+El Organizador recibirá solo datos necesarios y jurídicamente habilitados para ejecutar la Experiencia y deberá protegerlos. No podrá venderlos, incorporarlos automáticamente a bases publicitarias propias, enviar spam, ni divulgarlos injustificadamente. Cuando necesite datos tributarios adicionales del comprador para emitir comprobantes, deberá solicitarlos directamente y tratarlos conforme a ley.
+Si el Organizador detecta una brecha relevante en datos que haya recibido a través de Qplaneta, deberá comunicarla sin demora indebida para que puedan evaluarse las medidas y avisos que correspondan legalmente.
+31. Suspensión, restricción y cierre de cuentas
+El Usuario podrá solicitar el cierre de su cuenta mediante los canales habilitados. El cierre no elimina automáticamente compras, obligaciones futuras, derechos de reembolso, Saldo a favor, liquidaciones, reclamos, deudas u obligaciones legítimas de conservación legal.
+Qplaneta podrá adoptar medidas preventivas proporcionadas frente a fraude, suplantación, acoso grave, amenazas de seguridad, uso indebido de pagos, riesgos objetivos de incumplimiento o requerimientos oficiales. Las medidas definitivas deberán estar justificadas y, en los casos previstos por las Normas de la Comunidad, sujetas a decisión humana y revisión.
+Cuando un Organizador tercero incurra en cancelaciones injustificadas reiteradas o falta de realización sin cancelación oportuna, Qplaneta podrá restringir temporalmente su capacidad para publicar y comercializar nuevas Experiencias conforme a la escala aplicable. Como regla general, la medida no impedirá cumplir Experiencias ya contratadas, tramitar devoluciones, responder reclamos ni acceder a información necesaria para las liquidaciones. La restricción de una venta o publicación activa solo procederá mediante una decisión específica, proporcionada y motivada que tenga en cuenta los derechos de terceros.
+Cuando exista una incidencia económica objetivamente vinculada a un Organizador, únicamente podrá retenerse el importe razonablemente relacionado con ella, según las políticas aplicables. El cierre o suspensión de una cuenta no supone confiscación de fondos, pérdida automática del saldo ni renuncia a derechos exigibles.
+32. Responsabilidad y distribución de riesgos
+Las responsabilidades se determinarán conforme a las funciones efectivamente asumidas y a las normas aplicables. Los Organizadores terceros responden por la planificación, oferta, idoneidad, seguridad, permisos, personal, aforo y ejecución de sus Experiencias; Qplaneta responde por sus Servicios, información y operaciones bajo su control y demás deberes legales.
+La verificación de identidad, las calificaciones y la publicación no garantizan aptitud profesional, ausencia de riesgos ni comportamiento futuro de Usuarios u Organizadores. La identificación de riesgos inherentes no constituye renuncia del consumidor a reclamar por negligencia o incumplimiento.
+Los reembolsos, contracargos y costos extraordinarios derivados de incumplimientos imputables al Organizador podrán ser objeto de reintegro o compensación legal y contractualmente autorizada, sin reducir derechos imperativos de consumidores. Las fallas atribuibles a Qplaneta no se trasladarán automáticamente al Organizador.
+33. Caso fortuito, fuerza mayor y circunstancias extraordinarias
+El caso fortuito y la fuerza mayor se interpretan conforme al ordenamiento peruano; su existencia exige valorar causalidad, carácter extraordinario, imprevisibilidad, irresistibilidad y ausencia de imputación, cuando corresponda. La sola lluvia, una huelga o una dificultad operativa no acreditan automáticamente un supuesto exoneratorio.
+La parte afectada comunicará el hecho oportunamente y adoptará medidas razonables para mitigar daños. Las cancelaciones, cambios, suspensiones o devoluciones se evaluarán según las circunstancias y la Política de Cancelaciones y Reembolsos.
+La ausencia de culpa del Organizador no significa necesariamente que el participante deba pagar por una prestación que no recibió. Las asignaciones internas de costos no reducirán restituciones legalmente exigibles.
+34. Atención al Usuario, incidencias y Libro de Reclamaciones
+Qplaneta dispondrá del Centro de Ayuda y de soporte@qplaneta.com para incidencias, solicitudes e información de compras y cuentas, sin excluir los canales legales de reclamación. Los reclamos digitales deberán poder presentarse por medios accesibles y eficaces conforme a las exigencias legales.
+Qplaneta mantendrá un Libro de Reclamaciones en formato y condiciones legales vigentes, mediante enlace permanente, visible y fácilmente accesible dentro de la aplicación, conforme a la Ley N.° 29571, su modificación por Ley N.° 32495 y el reglamento aplicable. Su acceso no sustituye ni está condicionado al uso previo del Centro de Ayuda.
+Las quejas y reclamaciones serán atendidas en los plazos legales, sin costo ni trabas indebidas. Los Organizadores terceros deberán colaborar proporcionando información, y mantendrán las obligaciones propias de atención y Libro que legalmente les resulten exigibles. El Usuario conserva acceso a Indecopi y demás mecanismos pertinentes.
+35. Comunicaciones y notificaciones
+Qplaneta podrá utilizar correo electrónico, notificaciones de la aplicación y avisos push para comunicaciones operativas sobre registro, identidad, seguridad, compra, entradas, recordatorios, asistencia, cancelaciones, devoluciones, chat e incidencias, según las funciones efectivamente habilitadas.
+Las comunicaciones publicitarias se sujetarán a los consentimientos o bases jurídicas que exija la normativa. Cuando corresponda consentimiento, este será específico, informado y voluntario; podrá revocarse u oponerse conforme a los mecanismos legalmente exigidos.
+El permiso para que Qplaneta comunique publicidad no autoriza automáticamente a los Organizadores a utilizar datos de Usuarios para campañas propias. El rechazo de publicidad no impedirá recibir comunicaciones de servicio necesarias.
+36. Modificación de los Términos
+Qplaneta podrá actualizar estos Términos por cambios normativos, seguridad, evolución técnica, nuevas funciones o ajustes operativos justificados. Las modificaciones materiales de derechos, obligaciones o condiciones contractuales serán comunicadas con la antelación razonable exigida según su naturaleza y la ley, solicitando aceptación expresa cuando proceda.
+Los cambios de comisión general se comunicarán al Organizador con al menos quince (15) días calendario de anticipación al correo registrado, e indicarán tasa nueva y fecha de vigencia. Solo se aplicarán a Experiencias publicadas desde esa fecha. Las previamente publicadas mantienen su comisión inicial también sobre ventas futuras de esas publicaciones. Los acuerdos especiales conservarán su vigencia pactada salvo cambio válidamente acordado.
+Ninguna modificación unilateral tendrá efecto retroactivo sobre compras y derechos válidamente adquiridos. La mera continuación en el uso no sustituye siempre una nueva manifestación expresa cuando esta sea jurídicamente necesaria.
+37. Documentos relacionados y jerarquía contractual
+Constituyen documentos complementarios, según corresponda, la Política de Precios y Condiciones Económicas, la Política de Cancelaciones y Reembolsos, las Normas de la Comunidad y Política de Infracciones y Sanciones, las Condiciones Particulares y otros acuerdos expresos válidos para casos específicos. La Política de Privacidad informa de forma independiente el tratamiento de datos personales.
+Prevalecen las normas peruanas de carácter imperativo. Los Términos contienen reglas generales y las políticas específicas desarrollan su materia, dentro de la jerarquía establecida; las Condiciones Particulares solo podrán completar variables expresamente permitidas, sin suprimir derechos. Los contratos especiales escritos de determinados Eventos regirán sus particularidades válidas sin afectar normas imperativas.
+Las Reglas Adicionales del Organizador no podrán sustituir las políticas de Qplaneta. Ninguna jerarquía contractual permitirá desconocer información, publicidad, ofertas o garantías legalmente vinculantes para el proveedor.
+38. Disposiciones generales
+Estos Términos se interpretarán conforme a la legislación del Perú. La invalidez de una cláusula no afectará automáticamente las demás cuando puedan subsistir separadamente. La falta de ejercicio inmediato de un derecho no representa renuncia definitiva.
+Los Organizadores terceros son, como regla general, independientes de Qplaneta. El uso de la Plataforma no crea por sí mismo vínculo laboral, societario, franquicia ni asociación. Una eventual reorganización del operador se gestionará bajo las obligaciones de información y respeto a derechos adquiridos que correspondan.
+La cuenta de Usuario y la posición contractual general no son libremente transferibles; compartir un QR de entrada adicional no constituye cesión de la cuenta. La versión contractual principal está redactada en español. Las obligaciones que por naturaleza sobrevivan al cierre de cuenta seguirán vigentes durante el plazo aplicable.
+39. Ley aplicable y solución de controversias
+La relación se regirá por la legislación peruana. Los Usuarios podrán acudir al Centro de Ayuda y al Libro de Reclamaciones, sin necesidad de agotar previamente esos canales cuando la ley permita recurrir directamente a Indecopi, arbitraje de consumo, mecanismos conciliatorios o tribunales competentes.
+Ninguna disposición equivale a renuncia a fueros, competencias ni derechos imperativos del consumidor. En controversias en las que la sumisión territorial sea legalmente válida y no involucre reglas de competencia imperativa, las partes podrán someterse a los jueces competentes de Lima, Perú, sin perjuicio de los derechos del consumidor.
+40. Datos de contacto y entrada en vigencia
+Operador:  Quantum Labs S.A.C.
+RUC: 20616497406.
+Domicilio contractual: Av. Túpac Amaru 313, Amarilis, Huánuco, Perú.
+Nombre comercial:  Qplaneta.
+Centro de Ayuda y privacidad:  soporte@qplaneta.com y Centro de Ayuda dentro de la aplicación.
+Libro de Reclamaciones: acceso dentro del menú de Qplaneta.
+Versión: 1.0
+Entrada en vigencia: La presente versión será aplicable desde su puesta a disposición en la aplicación y la aceptación exigible, previa comunicación de su fecha efectiva de vigencia.
+La información societaria y los canales oficiales se mantendrán actualizados. Se comunicará cualquier modificación contractual material de acuerdo con estos Términos y la normativa aplicable.
