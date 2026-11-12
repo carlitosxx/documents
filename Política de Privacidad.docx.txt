@@ -1,0 +1,423 @@
+﻿POLÍTICA DE PRIVACIDAD
+DE QPLANETA
+Versión: 1.0
+Fecha: 5 de noviembre de 2026
+Entrada en vigencia: 13 de noviembre de 2026
+Tratamiento y protección de datos personales en Qplaneta
+Huánuco – Perú
+2026
+________________
+
+
+ÍNDICE GENERAL
+1. Responsable del tratamiento
+2. Objeto y alcance
+3. Bancos de datos personales
+4. Categorías de datos personales tratados
+5. Finalidades del tratamiento
+6. Bases que permiten el tratamiento
+7. Información visible dentro de Qplaneta
+8. Información compartida con Organizadores
+9. Ubicación
+10. Menores de edad
+11. Entradas sujetas a beneficios para personas con discapacidad
+12. Decisiones automatizadas relacionadas con asistencia
+13. Destinatarios y transferencias internacionales
+14. Procesamiento de pagos
+15. Conservación de datos personales
+16. Seguridad de la información
+17. Derechos de los titulares
+18. Cierre de cuenta
+19. Uso legítimo de datos por Organizadores
+20. Modificaciones de esta Política
+21. Contacto
+22. Vigencia
+Marco normativo de referencia
+________________
+
+
+Esta versión incorpora las reglas de operaciones económicas, control de entradas y gestión del Saldo a favor efectivamente habilitadas en Qplaneta. Su vigencia comenzará con su publicación conforme al apartado 22.
+1. Responsable del tratamiento
+La plataforma digital Qplaneta es operada por:
+Quantum Labs S.A.C.
+RUC: 20616497406
+Domicilio: Avenida Tupac Amaru 313 – Amarilis, Huánuco, Perú
+Correo de atención y privacidad: soporte@qplaneta.com
+Quantum Labs S.A.C. es responsable del tratamiento de los datos personales realizado mediante Qplaneta conforme a la Ley N.° 29733, Ley de Protección de Datos Personales, su Reglamento aprobado mediante Decreto Supremo N.° 016-2024-JUS y demás normativa aplicable.
+2. Objeto y alcance
+Esta Política informa a los Usuarios sobre el tratamiento de datos personales realizado mediante Qplaneta, incluyendo:
+* Qué información se trata;
+* Para qué se utiliza;
+* Qué información puede ser visible para otros Usuarios;
+* Con quién puede ser compartida;
+* Los tratamientos internacionales que pueden producirse;
+* Los periodos de conservación;
+* La existencia y consecuencias de determinadas decisiones automatizadas;
+* Las medidas generales de protección aplicables; y
+* Los derechos de los titulares y mecanismos para ejercerlos.
+Esta Política debe interpretarse conjuntamente con los Términos y Condiciones de Uso y las Normas de la Comunidad de Qplaneta.
+3. Bancos de datos personales
+Quantum Labs S.A.C. identifica los siguientes bancos de datos personales vinculados con el funcionamiento de Qplaneta. Los códigos indicados son los declarados por el operador y se sujetan a su comprobación registral oficial.
+3.1. Usuarios de Qplaneta
+Código registral declarado: PJ-2026-5861.
+Su finalidad comprende gestionar el registro, identificación y verificación de los Usuarios; administrar cuentas, perfiles, Comunidades, Actividades y Eventos; gestionar inscripciones, compras, pagos, asistencia, comunicaciones, reputación y soporte; mantener la seguridad de la Plataforma; prevenir usos indebidos y fraude; atender solicitudes e incidencias; y cumplir las obligaciones contractuales y legales aplicables.
+3.2. Quejas y Reclamos
+Código registral declarado: PJ-2026-5862.
+Su finalidad comprende registrar, gestionar, atender y dar seguimiento a las quejas y reclamos presentados mediante el Libro de Reclamaciones de Qplaneta; gestionar las comunicaciones y respuestas correspondientes; conservar la información y evidencias necesarias; cumplir las obligaciones previstas en la normativa de protección al consumidor; y atender requerimientos de las autoridades competentes.
+4. Categorías de datos personales tratados
+Qplaneta trata las categorías de información necesarias según las funcionalidades utilizadas por cada Usuario.
+4.1. Datos de cuenta y perfil
+Podrán comprender:
+* Nombres y apellidos;
+* Correo electrónico;
+* Sexo;
+* Fecha de nacimiento;
+* Ubicación general;
+* Intereses; y
+* Fotografía de perfil.
+La fecha de nacimiento permite, entre otras finalidades, comprobar que el titular de la cuenta ha cumplido dieciocho (18) años. El sexo no forma parte de la información ordinariamente visible para otros Usuarios.
+4.2. Datos de verificación de identidad
+Cuando el Usuario realice el procedimiento de verificación podrán tratarse:
+* Nombres y apellidos;
+* Número de documento de identidad;
+* Imagen frontal del documento de identidad;
+* Fotografía de perfil;
+* Número telefónico;
+* Resultado de la verificación;
+* Fecha de la verificación; y
+* Información mínima necesaria para realizar y acreditar dicha comprobación.
+4.3. Datos de Organizadores
+Dependiendo del tipo de Organizador podrán tratarse:
+* Datos de identificación;
+* Número de RUC;
+* Nombre, denominación o razón social;
+* Información relacionada con representación;
+* Identificación del Responsable de Gestión;
+* Identificación del Responsable Económico;
+* Datos de cuenta de depósito; y
+* Documentación necesaria para verificar los requisitos correspondientes.
+4.4. Datos relacionados con Experiencias
+Podrán comprender:
+* Inscripciones en Actividades;
+* Compras de Entradas;
+* Tipo, categoría o zona de Entrada;
+* Información asociada al acceso;
+* Confirmación de participación;
+* Cancelaciones;
+* Asistencia o inasistencia;
+* Historial de participación; y
+* Información necesaria para gestionar una Actividad o Evento.
+4.5. Datos de operaciones económicas
+Podrán comprender:
+* Importe;
+* Fecha;
+* Estado de la operación;
+* Referencias de operación;
+* Devoluciones;
+* Saldo a favor; y
+* Liquidaciones a Organizadores.
+Para solicitudes de devolución externa o retiro, Qplaneta podrá tratar el nombre del titular del destino, banco, CCI, proveedor y número de monedero digital, información de autenticación y comprobación de titularidad, constancias limitadas aportadas por el Usuario y el resultado de la transferencia. Estos datos no se envían a la pasarela de pago mediante la integración descrita en el apartado 14.
+Durante la compra, Qplaneta también podrá registrar identificadores de operación, cantidad y categoría de entradas, fechas y horas de inicio y expiración de reservas temporales, confirmaciones, rechazos, cobros duplicados y conciliaciones, exclusivamente en la medida necesaria para controlar el aforo, prevenir cobros indebidos y atender devoluciones y controversias.
+4.6. Datos de Comunidad e interacción
+Podrán comprender:
+* Comunidades a las que pertenece el Usuario;
+* Intereses;
+* Calificaciones;
+* Reseñas;
+* Comentarios;
+* Reputación;
+* Reportes de conducta;
+* Registro de Infracciones;
+* Advertencias; 
+* Restricciones y Sanciones;
+* Solicitudes de revisión y sus decisiones.
+
+
+Tratándose de organizadores podrán comprender: 
+
+
+* Registros de Experiencias canceladas;
+* Falta de realización;
+* Comunicaciones asociadas;
+* Motivos declarados;
+* Fecha;
+* Número de participantes o compradores afectados; y
+* Antecedentes necesarios para determinar reiteración.
+
+
+Qplaneta tratará únicamente la información razonablemente necesaria para verificar los hechos, administrar las medidas y atender las controversias. La documentación adicional aportada por un Usuario, como constancias de desplazamiento o justificaciones, se limitará a lo pertinente y no se solicitarán datos sensibles o documentos excesivos sin una finalidad y base jurídica válidas.
+4.7. Datos del chat
+Comprenden:
+* Mensajes de texto;
+* Emojis;
+* Identificación del remitente; y
+* Información temporal necesaria para mostrar y ordenar la conversación.
+4.8. Datos relacionados con notificaciones
+Qplaneta podrá tratar los identificadores técnicos y demás información estrictamente necesaria para enviar y gestionar notificaciones relacionadas con el servicio.
+4.9. Datos de soporte y atención
+Comprenden las consultas, solicitudes, comunicaciones, incidencias y demás información proporcionada mediante el Centro de Ayuda o los Canales de Atención.
+4.10. Datos del Libro de Reclamaciones
+Comprenden los datos proporcionados mediante la Hoja de Reclamación y la información necesaria para registrar, gestionar, responder y dar seguimiento a la queja o reclamo correspondiente.
+El Libro de Reclamaciones puede requerir información adicional cuando ello resulte obligatorio conforme a la normativa de protección al consumidor.
+5. Finalidades del tratamiento
+Qplaneta tratará los datos personales únicamente para finalidades determinadas y relacionadas con el funcionamiento de la Plataforma y las obligaciones de Quantum Labs S.A.C.
+5.1. Crear y administrar cuentas
+Registrar al Usuario, validar su correo electrónico, autenticarlo, administrar su perfil y permitir el acceso a las funcionalidades correspondientes.
+5.2. Verificar la mayoría de edad
+Comprobar que el titular de una cuenta cumple el requisito de tener dieciocho (18) años o más.
+5.3. Verificar la identidad
+Comprobar la correspondencia entre la información declarada y la documentación presentada, fortalecer la autenticidad de las interacciones y prevenir suplantaciones o usos indebidos.
+5.4. Gestionar perfiles e interacción social
+Permitir que los Usuarios se identifiquen e interactúen dentro de Qplaneta y mostrar la información definida como visible.
+5.5. Gestionar Organizadores
+Crear y administrar perfiles Persona, Comunidad y Negocio, verificar a sus responsables y gestionar los requisitos correspondientes para publicar Experiencias.
+5.6. Gestionar Experiencias
+Permitir la creación, publicación, inscripción, adquisición, participación, acceso y demás operaciones relacionadas con Actividades y Eventos.
+5.7. Gestionar operaciones económicas
+Registrar compras, pagos, devoluciones, Saldo a favor y liquidaciones correspondientes a Organizadores.
+Facilitar solicitudes manuales de retiro, guardar opcionalmente destinos financieros para futuros retiros, comprobar razonablemente su titularidad, autenticar solicitudes, prevenir transferencias duplicadas, registrar constancias y enviar comunicaciones sobre devoluciones pendientes y sus resultados. El guardado de un destino para reutilizarlo será facultativo y el Usuario podrá modificarlo o eliminarlo, sin perjuicio de registros transaccionales cuya conservación esté justificada.
+Gestionar el bloqueo temporal de entradas durante el proceso de compra, sus vencimientos, la confirmación de pagos mediante la pasarela de pago y el tratamiento de respuestas tardías o duplicadas, cuando dichas funciones se encuentren implementadas. Conservar evidencia técnica mínima y trazabilidad de los consentimientos y aceptaciones contractuales relacionados con las experiencias de pago.
+5.8. Gestionar asistencia
+Registrar confirmaciones, cancelaciones, asistencia e inasistencia y aplicar las reglas correspondientes previstas en las Normas de la Comunidad.
+5.9. Gestionar Comunidades y reputación
+Administrar Comunidades, calificaciones, comentarios, reseñas y sistemas de reputación.
+5.10. Facilitar el chat
+Permitir la comunicación entre el Organizador y los Usuarios participantes de una Experiencia.
+5.11. Aplicar las Normas de la Comunidad
+Gestionar reportes, incumplimientos de asistencia, infracciones de convivencia, cancelaciones imputables a Organizadores, falta de realización de Experiencias, medidas preventivas, advertencias, sanciones y solicitudes de revisión; comprobar la reiteración dentro de los periodos previamente informados; documentar las decisiones humanas exigidas por la política disciplinaria; y proteger los derechos de Usuarios, Organizadores y terceros afectados.
+5.12. Mantener la seguridad
+Prevenir, identificar y gestionar suplantaciones, accesos no autorizados, fraude, abuso de la Plataforma y otros riesgos de seguridad.
+5.13. Enviar comunicaciones operativas
+Enviar códigos de verificación, recordatorios, avisos de cancelación, notificaciones relacionadas con asistencia, nuevos mensajes, seguridad, operaciones, soporte y otras comunicaciones necesarias para prestar los servicios de Qplaneta.
+5.14. Atender soporte
+Gestionar consultas, solicitudes e incidencias presentadas mediante el Centro de Ayuda o los Canales de Atención.
+5.15. Gestionar el Libro de Reclamaciones
+Registrar, atender, responder y dar seguimiento a las quejas y reclamos presentados por los consumidores.
+5.16. Cumplir obligaciones legales y defender derechos
+Atender obligaciones legales, tributarias y regulatorias; responder requerimientos válidos de autoridades; conservar información cuando exista una obligación jurídica; y ejercer o defender derechos.
+6. Bases que permiten el tratamiento
+Qplaneta tratará los datos personales cuando exista una habilitación reconocida por la legislación aplicable.
+Dependiendo de la finalidad, el tratamiento podrá sustentarse en:
+* El consentimiento del titular cuando sea legalmente necesario;
+* La relación contractual o las actuaciones solicitadas por el Usuario, en los supuestos permitidos por la legislación;
+* El cumplimiento de obligaciones legales;
+* La protección y ejercicio de derechos; y
+* Las demás circunstancias en las que la Ley N.° 29733 y su Reglamento permitan el tratamiento.
+La puesta a disposición o lectura de esta Política de Privacidad no constituye por sí sola un consentimiento general para cualquier tratamiento de datos personales.
+Cuando un tratamiento requiera consentimiento específico, este será solicitado separadamente conforme a las exigencias legales aplicables.
+7. Información visible dentro de Qplaneta
+Qplaneta incorpora funcionalidades sociales que permiten que determinada información sea visible para otros Usuarios dentro de la Plataforma.
+Según la funcionalidad correspondiente podrán ser visibles:
+* Nombres y apellidos;
+* Fotografía de perfil;
+* Condición de identidad verificada;
+* Intereses incorporados al perfil;
+* Comunidades a las que pertenece el Usuario;
+* Experiencias en las que haya participado;
+* Participación en determinadas Experiencias; y
+* Relación con una Comunidad, Negocio o perfil de Organizador.
+No forman parte de la información ordinariamente visible para otros Usuarios:
+* Correo electrónico;
+* Número telefónico;
+* Sexo;
+* Fecha de nacimiento;
+* Número o imagen del documento de identidad;
+* Información bancaria o de cuenta de depósito;
+* Documentación utilizada en verificaciones; ni
+* Información interna de soporte, seguridad o administración.
+Los Organizadores únicamente podrán acceder a la información necesaria para gestionar las Experiencias respecto de las cuales les corresponda intervenir.
+La condición de Organizador no otorga acceso al historial completo del Usuario dentro de Qplaneta.
+8. Información compartida con Organizadores
+Cuando un Usuario participe en una Experiencia, Qplaneta podrá poner a disposición del Organizador correspondiente la información necesaria para gestionar dicha Experiencia.
+Según corresponda, esta información podrá estar relacionada con:
+* Identidad visible del Usuario;
+* Participación o Entrada;
+* Tipo o categoría de Entrada;
+* Estado de participación;
+* Asistencia; y
+* Información necesaria para gestionar legítimamente la Experiencia.
+El Organizador deberá utilizar dicha información únicamente para finalidades vinculadas con la Experiencia y conforme a las obligaciones de protección de datos que le resulten aplicables.
+La condición de Organizador no autoriza a utilizar automáticamente los datos recibidos para finalidades comerciales independientes.
+9. Ubicación
+Durante el registro, Qplaneta puede utilizar temporalmente la ubicación proporcionada por el dispositivo, cuando el Usuario haya otorgado el permiso correspondiente, para facilitar el autocompletado de su ubicación general.
+La información conservada como parte de la cuenta corresponde a una ubicación general.
+Qplaneta no mantiene como parte de esta funcionalidad un historial permanente de desplazamientos del Usuario ni utiliza su ubicación para realizar seguimiento continuo.
+10. Menores de edad
+Las cuentas Qplaneta están destinadas exclusivamente a personas de dieciocho (18) años o más.
+Los menores no crean cuentas o perfiles propios ni realizan directamente operaciones mediante Qplaneta.
+Una Actividad o Evento puede admitir menores cuando sus condiciones lo permitan. En estos casos, la operación correspondiente será gestionada por un Usuario adulto.
+Como parte del funcionamiento ordinario de dicha participación, Qplaneta no solicita datos destinados a identificar personalmente al menor.
+Cuando resulte necesario comprobar edad, autorización, beneficio u otra condición de ingreso, dicha verificación será realizada directamente ante el Organizador o establecimiento.
+Excepcionalmente, un adulto puede proporcionar información relacionada con un menor al presentar una consulta, incidencia, queja o reclamo.
+En dichos supuestos, Qplaneta tratará únicamente la información necesaria para gestionar la solicitud y cumplir las obligaciones legales correspondientes.
+11. Entradas sujetas a beneficios para personas con discapacidad
+Cuando una Experiencia contemple Entradas sujetas a un beneficio legal aplicable a personas con discapacidad, el Organizador podrá identificarlas mediante el tipo o categoría de Entrada correspondiente.
+Qplaneta registra dicha información como una característica de la Entrada y de la operación realizada.
+Qplaneta no crea a partir de ello un perfil de discapacidad del Usuario ni solicita para esta finalidad:
+* Carné CONADIS;
+* Certificado de discapacidad;
+* Certificado médico;
+* Grado o tipo de discapacidad; ni
+* Documentación equivalente destinada a acreditar dicha condición.
+La acreditación del derecho al beneficio, cuando corresponda, se realizará directamente ante el Organizador o establecimiento al momento del ingreso.
+La categoría de Entrada no será utilizada por Qplaneta para elaborar perfiles relativos a la salud de los Usuarios.
+12. Decisiones automatizadas relacionadas con asistencia
+Determinadas reglas relacionadas con la participación de Usuarios en Actividades gratuitas pueden aplicarse automáticamente conforme a las Normas de la Comunidad y Política de Infracciones y Sanciones. Para ello se utilizan registros objetivos de inscripción, confirmación, cancelación, asistencia, inasistencia y reiteración dentro del periodo definido en dicha política.
+Según la escala previamente informada, estos registros podrán producir advertencias y suspensiones temporales. Cuando la escala contemple una posible expulsión permanente, el sistema podrá identificar el supuesto y remitirlo a evaluación, pero ninguna expulsión o baneo definitivo será aplicado de forma automática: requerirá revisión y decisión humana documentada.
+Las infracciones atribuidas a Organizadores por cancelaciones injustificadas o falta de realización sin aviso oportuno también requerirán evaluación humana antes de cualquier sanción definitiva. Para tal finalidad podrán utilizarse los registros de la Experiencia y las comunicaciones y evidencias razonablemente relacionadas con los hechos; no se presumirá que una queja o reporte constituye prueba suficiente.
+El Usuario podrá solicitar una revisión individual mediante el Centro de Ayuda o escribiendo a soporte@qplaneta.com. Qplaneta evaluará la solicitud y podrá mantener, modificar, reducir o dejar sin efecto la medida conforme a las circunstancias y las reglas aplicables. La presentación de la solicitud no suspenderá automáticamente una medida temporal válidamente aplicada.
+Este tratamiento no tiene por finalidad inferir condiciones de salud, situación económica, personalidad u otros atributos ajenos a las reglas objetivas de asistencia y cumplimiento.
+13. Destinatarios y transferencias internacionales
+Para determinadas funciones de Qplaneta, Quantum Labs S.A.C. utiliza proveedores que pueden recibir o tratar datos personales fuera del Perú.
+13.1. Plus Five Five, Inc. — Estados Unidos
+Presta servicios de envío de comunicaciones electrónicas. Puede tratar la dirección de correo electrónico y el contenido necesario para efectuar la comunicación.
+Interviene respecto de los bancos Usuarios de Qplaneta y Quejas y Reclamos, según corresponda.
+13.2. Google LLC — Estados Unidos
+Presta el servicio utilizado para el envío de notificaciones push. Puede tratar los identificadores técnicos y la información necesaria para entregar dichas notificaciones.
+Interviene respecto del banco Usuarios de Qplaneta.
+13.3. Cloudflare, Inc. — Estados Unidos
+Presta servicios relacionados con seguridad, disponibilidad y transmisión del tráfico de Qplaneta. Puede tratar información técnica de conexión y la información que transite mediante el servicio correspondiente.
+Interviene respecto de los bancos Usuarios de Qplaneta y Quejas y Reclamos.
+Quantum Labs S.A.C. aplicará a estos flujos transfronterizos las garantías y obligaciones que correspondan conforme a la legislación peruana de protección de datos personales.
+14. Procesamiento de pagos
+Qplaneta utiliza Taypi como proveedor especializado para facilitar operaciones de pago por las entradas comercializadas mediante la Plataforma.
+En la integración utilizada por Qplaneta, se transmite únicamente el importe necesario para iniciar la operación.
+Qplaneta no envía mediante dicha integración:
+* Nombre;
+* Apellidos;
+* Correo electrónico;
+* Número telefónico; ni
+* Documento de identidad del Usuario.
+En esta integración, Qplaneta no transmite directamente a Taypi los datos de identidad antes enumerados. Taypi podría tratar datos que la persona proporcione directamente durante el pago, de acuerdo con sus propios deberes de información y las condiciones legales aplicables.
+Qplaneta conservará las referencias y estados de operación que resulten necesarios para gestionar la compra, devolución, conciliación u obligaciones correspondientes.
+15. Conservación de datos personales
+Qplaneta conservará cada categoría de datos únicamente durante el periodo necesario para cumplir la finalidad que justificó su tratamiento, sin perjuicio de obligaciones legales o circunstancias legítimas que requieran conservación adicional.
+15.1. Cuenta y perfil
+Los datos ordinarios de cuenta y perfil se conservarán mientras la cuenta permanezca activa.
+Cuando el Usuario solicite el cierre de su cuenta, Qplaneta procederá a eliminar o anonimizar los datos ordinarios que ya no resulten necesarios en un plazo máximo de treinta (30) días.
+Podrá mantenerse de forma restringida la información necesaria cuando existan:
+* Operaciones pendientes;
+* Devoluciones;
+* Obligaciones económicas;
+* Controversias;
+* Procedimientos;
+* Medidas de seguridad;
+* Obligaciones legales; o
+* Necesidades legítimas de ejercicio o defensa de derechos.
+15.2. Verificación de identidad
+La imagen del documento de identidad será eliminada dentro de un plazo máximo de veinticuatro (24) horas después de concluir la verificación.
+Cuando una verificación sea rechazada o no llegue a completarse, la imagen será eliminada una vez finalizado el procedimiento correspondiente.
+Qplaneta podrá conservar, mientras resulte necesario:
+* Número de documento;
+* Resultado de la verificación;
+* Fecha de la verificación; y
+* Información mínima necesaria para acreditar que esta fue realizada.
+La fotografía de perfil podrá conservarse mientras permanezca utilizada por el Usuario. Cuando sea reemplazada, la fotografía anterior será eliminada.
+15.3. Chat
+Los mensajes del chat permanecerán disponibles para sus participantes hasta veinticuatro (24) horas después de finalizada la Experiencia.
+Después de dicho periodo dejarán de estar disponibles mediante la interfaz ordinaria.
+Qplaneta podrá conservar internamente dichos registros durante un máximo de seis (6) meses para atender incidencias, seguridad, reportes o controversias.
+Podrá mantenerse exclusivamente la información necesaria durante un periodo adicional cuando exista una obligación legal, procedimiento o controversia pendiente.
+15.4. Notificaciones internas
+El historial interno de determinadas notificaciones podrá conservarse durante un máximo de seis (6) meses.
+15.5. Centro de Ayuda y soporte
+La información correspondiente a consultas e incidencias podrá conservarse durante un máximo de dos (2) años desde el cierre del caso.
+Este plazo constituye una regla de conservación adoptada por Qplaneta para gestionar antecedentes de soporte, incidencias y defensa de derechos.
+Cuando exista una operación, controversia u obligación que requiera conservación adicional, se aplicará el plazo correspondiente.
+15.6. Libro de Reclamaciones
+Las Hojas de Reclamaciones, respuestas y evidencias correspondientes serán conservadas durante un periodo mínimo de dos (2) años desde la presentación de la queja o reclamo.
+Cuando exista un procedimiento o controversia pendiente, podrá conservarse la información necesaria durante el periodo adicional correspondiente.
+15.7. Operaciones económicas
+Los registros de compras, devoluciones, liquidaciones y demás documentación vinculada con obligaciones tributarias, contables o legales se conservarán durante los plazos establecidos por la normativa aplicable.
+Los destinos de retiro guardados voluntariamente se mantendrán mientras el Usuario conserve esa opción y sean necesarios para realizar retiros futuros; podrán ser eliminados o modificados por el Usuario. La eliminación de un destino guardado no implica la supresión de datos mínimos que deban conservarse respecto de transferencias anteriores, obligaciones legales o controversias. Las imágenes o capturas empleadas excepcionalmente para comprobar la titularidad se eliminarán cuando finalice su finalidad, salvo necesidad concreta de seguridad, controversia o conservación legal, y estarán accesibles únicamente a personal autorizado.
+15.8. Infracciones y seguridad
+Los registros relacionados con reportes, infracciones, cancelaciones atribuibles a Organizadores, faltas de realización, justificaciones, medidas preventivas, sanciones y revisiones se conservarán únicamente durante el tiempo razonablemente necesario para aplicar las Normas de la Comunidad, determinar reiteraciones, resolver impugnaciones, prevenir usos indebidos y ejercer o defender derechos.
+La escala disciplinaria considera, como regla, las infracciones de la misma clase cometidas. El registro podrá conservarse por más tiempo si existe una finalidad concreta de seguridad, una controversia, un procedimiento o una obligación legal que lo justifique. Cuando la información deje de ser necesaria, Qplaneta la eliminará o anonimizará conforme al procedimiento aplicable. El acceso a antecedentes disciplinarios estará restringido al personal autorizado.
+16. Seguridad de la información
+Quantum Labs S.A.C. adopta medidas técnicas, organizativas y legales destinadas a proteger los datos personales frente a:
+* Acceso no autorizado;
+* Alteración;
+* Pérdida;
+* Divulgación indebida; y
+* Tratamiento no autorizado.
+Las medidas se determinan teniendo en consideración la naturaleza de la información, las finalidades del tratamiento y los riesgos identificados.
+Por razones de seguridad, esta Política no publica configuraciones, arquitectura, credenciales, mecanismos internos, procedimientos técnicos ni otra información cuya divulgación pueda incrementar el riesgo para Qplaneta o sus Usuarios.
+Cuando se produzca un incidente relacionado con datos personales, Quantum Labs S.A.C. realizará las evaluaciones, registros, comunicaciones y demás actuaciones exigibles conforme a la legislación aplicable.
+17. Derechos de los titulares
+Los titulares pueden ejercer gratuitamente los derechos reconocidos por la Ley N.° 29733 y su Reglamento.
+Entre ellos se encuentran, cuando corresponda:
+* Información;
+* Acceso;
+* Rectificación;
+* Actualización;
+* Inclusión;
+* Cancelación o supresión;
+* Oposición; y
+* Portabilidad en los supuestos legalmente aplicables.
+17.1. Cómo ejercer los derechos
+Las solicitudes podrán presentarse mediante:
+* El Centro de Ayuda de Qplaneta; o
+* soporte@qplaneta.com.
+La solicitud deberá permitir identificar al titular y precisar el derecho que desea ejercer.
+Qplaneta podrá realizar una verificación proporcional de identidad cuando sea necesaria para impedir que datos personales sean entregados, modificados o eliminados por una persona no autorizada.
+No se solicitará de manera rutinaria una nueva imagen del documento de identidad cuando existan otros medios suficientes para comprobar la identidad del solicitante.
+17.2. Plazos de atención
+Las solicitudes serán atendidas dentro de los plazos máximos establecidos por la normativa vigente:
+* Derecho de información: ocho (8) días hábiles;
+* Derecho de acceso: veinte (20) días hábiles;
+* Rectificación: diez (10) días hábiles;
+* Cancelación o supresión: diez (10) días hábiles; y
+* Oposición: diez (10) días hábiles.
+Los plazos se computan desde el día siguiente de la presentación de la solicitud conforme a las reglas previstas por la normativa aplicable.
+Salvo para el derecho de información, los demás plazos podrán ampliarse una sola vez y hasta por un periodo igual cuando las circunstancias lo justifiquen, debiendo comunicarse dicha ampliación dentro del plazo que se pretenda ampliar.
+Cuando resulte necesaria información o documentación adicional para atender una solicitud, se aplicarán las reglas de subsanación y suspensión de plazos previstas por la normativa vigente.
+17.3. Denegación o atención insatisfactoria
+Cuando una solicitud sea denegada total o parcialmente, Qplaneta proporcionará la justificación correspondiente.
+Si el titular considera que sus derechos no han sido debidamente atendidos, podrá acudir a la Autoridad Nacional de Protección de Datos Personales o ejercer las demás acciones reconocidas por el ordenamiento jurídico.
+18. Cierre de cuenta
+El Usuario podrá solicitar el cierre de su cuenta mediante los mecanismos habilitados por Qplaneta.
+El cierre no determina la eliminación inmediata de información que deba mantenerse debido a:
+* Una operación pendiente;
+* Una devolución;
+* Saldo a favor;
+* Una liquidación;
+* Una controversia;
+* Una sanción o procedimiento pendiente;
+* Una obligación legal; o
+* Una necesidad legítima de ejercicio o defensa de derechos.
+Finalizadas dichas circunstancias, los datos serán eliminados o anonimizados conforme a los periodos previstos en esta Política.
+19. Uso legítimo de datos por Organizadores
+Los Organizadores que accedan a datos personales a través de Qplaneta deberán utilizarlos exclusivamente para finalidades legítimamente relacionadas con las Experiencias bajo su responsabilidad.
+No deberán utilizarlos para:
+* Finalidades incompatibles con aquellas que justificaron su acceso;
+* Crear bases independientes sin una habilitación jurídica suficiente;
+* Enviar comunicaciones comerciales no autorizadas; o
+* Compartirlos indebidamente con terceros.
+Las obligaciones que correspondan al Organizador conforme a la legislación de protección de datos son independientes de las obligaciones propias de Quantum Labs S.A.C.
+20. Modificaciones de esta Política
+Quantum Labs S.A.C. podrá actualizar esta Política para mantenerla acorde con:
+* La legislación aplicable;
+* Los tratamientos de datos efectivamente realizados;
+* Cambios relevantes en los servicios efectivamente ofrecidos; o
+* Necesidades de seguridad y transparencia.
+Cada versión identificará su fecha de entrada en vigencia.
+Cuando una modificación produzca un cambio material respecto del tratamiento informado, Qplaneta proporcionará la información correspondiente mediante los canales adecuados.
+Cuando un nuevo tratamiento requiera consentimiento conforme a la legislación, Qplaneta solicitará dicho consentimiento antes de iniciar el tratamiento.
+La actualización de esta Política no constituye por sí sola autorización para incorporar finalidades incompatibles con aquellas previamente informadas.
+21. Contacto
+Para consultas relacionadas con esta Política o con el tratamiento de datos personales:
+Quantum Labs S.A.C.
+Qplaneta
+RUC: 20616497406
+Domicilio: Avenida Tupac Amaru 313 – Amarilis, Huánuco, Perú
+Correo: soporte@qplaneta.com
+El Usuario también podrá utilizar el Centro de Ayuda disponible dentro de Qplaneta.
+El Libro de Reclamaciones constituye un mecanismo independiente para la presentación formal de quejas y reclamos de consumo y no sustituye los mecanismos previstos en esta Política para el ejercicio de derechos de protección de datos personales.
+22. Vigencia
+Qplaneta identificará la versión y fecha de entrada en vigencia de esta Política.
+La versión aplicable podrá conservarse cuando resulte necesario acreditar la información proporcionada al Usuario y las condiciones vigentes en un determinado momento.
+Marco normativo de referencia
+* Ley N.° 29733, Ley de Protección de Datos Personales.
+* Reglamento de la Ley N.° 29733, aprobado por Decreto Supremo N.° 016-2024-JUS.
+* Ley N.° 29571, Código de Protección y Defensa del Consumidor, cuando corresponda al Libro de Reclamaciones y la relación de consumo.
+* Reglamento del Libro de Reclamaciones, aprobado por Decreto Supremo N.° 011-2011-PCM y sus modificatorias.
